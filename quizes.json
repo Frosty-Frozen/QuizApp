@@ -1,0 +1,6602 @@
+[
+  {
+    "id": 1,
+    "q": "Which country is the largest by land area on Earth?",
+    "opts": [
+      "Canada",
+      "United States",
+      "Russia",
+      "China"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 2,
+    "q": "What creates the Northern Lights (auroras)?",
+    "opts": [
+      "Refraction of sunlight by ice crystals",
+      "Volcanic ash in the atmosphere",
+      "Reflection of city lights",
+      "Earth's magnetic field interacting with charged solar particles"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 3,
+    "q": "Which is the world's largest hot desert?",
+    "opts": [
+      "Gobi Desert",
+      "Arabian Desert",
+      "Atacama Desert",
+      "Sahara Desert"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 4,
+    "q": "Which river carries the greatest volume of water on Earth?",
+    "opts": [
+      "Mississippi",
+      "Yangtze",
+      "Nile",
+      "Amazon"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 5,
+    "q": "Which mountain has the highest summit above sea level?",
+    "opts": [
+      "Denali",
+      "Mount Everest",
+      "K2",
+      "Mount Kilimanjaro"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 6,
+    "q": "What is the 'Ring of Fire' famous for?",
+    "opts": [
+      "A series of coral atolls",
+      "A circular ocean current",
+      "A chain of volcanoes and earthquakes around the Pacific",
+      "An ancient trade route"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 7,
+    "q": "Which tiny independent state sits entirely within a single city and is the world's smallest country?",
+    "opts": [
+      "Liechtenstein",
+      "Vatican City",
+      "San Marino",
+      "Monaco"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 8,
+    "q": "Which ocean contains the deepest point on Earth, the Mariana Trench?",
+    "opts": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Southern Ocean"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 9,
+    "q": "What is the primary cause of the tides on Earth?",
+    "opts": [
+      "The Moon's gravity",
+      "Ocean currents",
+      "Earth's magnetic field",
+      "Wind patterns"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 10,
+    "q": "Which famous bridge was dismantled in London and reassembled in Arizona?",
+    "opts": [
+      "Millennium Bridge",
+      "London Bridge",
+      "Westminster Bridge",
+      "Tower Bridge"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 11,
+    "q": "Which country spans the most time zones because of overseas territories?",
+    "opts": [
+      "China",
+      "United States",
+      "Russia",
+      "France"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 12,
+    "q": "About what fraction of Earth's water is freshwater (including ice)?",
+    "opts": [
+      "About 25%",
+      "About 10%",
+      "About 50%",
+      "About 3%"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 13,
+    "q": "Which rainforest is often called the 'lungs of the Earth' because it produces a large share of oxygen and biodiversity?",
+    "opts": [
+      "Congo Basin",
+      "Daintree",
+      "Borneo",
+      "Amazon rainforest"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 14,
+    "q": "What makes geothermal hot springs warm?",
+    "opts": [
+      "Sunlight heating surface water",
+      "Heat from Earth's interior and magma",
+      "Chemical reactions with salt",
+      "Friction from river flow"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 15,
+    "q": "Why do some beaches have black sand?",
+    "opts": [
+      "Salt crystals",
+      "Coral breakdown",
+      "Pollution from oil",
+      "Volcanic lava and dark minerals"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 16,
+    "q": "Which country is home to Mount Kilimanjaro, Africa's highest peak?",
+    "opts": [
+      "Kenya",
+      "Tanzania",
+      "Uganda",
+      "Ethiopia"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 17,
+    "q": "What is a fjord?",
+    "opts": [
+      "A tropical lagoon",
+      "A narrow glacially carved inlet",
+      "A type of sand dune",
+      "A mountain peak"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 18,
+    "q": "Which capital city lies where the Blue Nile and White Nile meet?",
+    "opts": [
+      "Kampala",
+      "Addis Ababa",
+      "Cairo",
+      "Khartoum"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 19,
+    "q": "Which continent contains the largest number of independent countries?",
+    "opts": [
+      "South America",
+      "Asia",
+      "Africa",
+      "Europe"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 20,
+    "q": "What causes a mirage, like seeing water on a hot road?",
+    "opts": [
+      "Magnetic interference",
+      "Refraction of light through layers of air of different temperatures",
+      "Reflection from distant objects",
+      "Sound waves bending light"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 21,
+    "q": "Which famous waterfalls straddle the border between the United States and Canada?",
+    "opts": [
+      "Iguazu Falls",
+      "Niagara Falls",
+      "Victoria Falls",
+      "Angel Falls"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 22,
+    "q": "Which large 'sea' is actually the world's biggest inland lake with no outlet to the ocean?",
+    "opts": [
+      "Mediterranean Sea",
+      "Black Sea",
+      "Caspian Sea",
+      "Red Sea"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 23,
+    "q": "Which lake is the deepest freshwater lake and holds the most freshwater by volume?",
+    "opts": [
+      "Lake Baikal",
+      "Lake Tanganyika",
+      "Lake Superior",
+      "Great Bear Lake"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 24,
+    "q": "Which continent has no native reptiles?",
+    "opts": [
+      "Europe",
+      "North America",
+      "Antarctica",
+      "Australia"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 25,
+    "q": "Why do leaves change color in autumn?",
+    "opts": [
+      "Cold turns sugars into pigments",
+      "Trees stop photosynthesizing permanently",
+      "Insects eat green pigments",
+      "Chlorophyll breaks down revealing other pigments"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 26,
+    "q": "Who is credited with inventing the first practical telephone?",
+    "opts": [
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi",
+      "Elisha Gray"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 27,
+    "q": "Who pioneered the first successful vaccine using cowpox to protect against smallpox?",
+    "opts": [
+      "Robert Koch",
+      "Edward Jenner",
+      "Jonas Salk",
+      "Louis Pasteur"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 28,
+    "q": "Who achieved the first controlled, sustained powered airplane flight?",
+    "opts": [
+      "Charles Lindbergh",
+      "Alberto Santos-Dumont",
+      "Otto Lilienthal",
+      "The Wright brothers"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 29,
+    "q": "Who discovered penicillin by noticing bacteria-killing mold on a petri dish?",
+    "opts": [
+      "Joseph Lister",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Alexander Fleming"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 30,
+    "q": "Who invented the World Wide Web—the system of linked documents and URLs we use online today?",
+    "opts": [
+      "Bill Gates",
+      "Vinton Cerf",
+      "Marc Andreessen",
+      "Tim Berners-Lee"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 31,
+    "q": "Who developed the first commercially practical incandescent light bulb?",
+    "opts": [
+      "Thomas Edison",
+      "Humphry Davy",
+      "Michael Faraday",
+      "Nikola Tesla"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 32,
+    "q": "Which scientist formulated the laws of motion and universal gravitation?",
+    "opts": [
+      "Johannes Kepler",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 33,
+    "q": "Who developed the first effective polio vaccine administered by injection?",
+    "opts": [
+      "Edward Jenner",
+      "Albert Sabin",
+      "Louis Pasteur",
+      "Jonas Salk"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 34,
+    "q": "Who introduced movable type printing in Europe, dramatically lowering the cost of books?",
+    "opts": [
+      "William Caxton",
+      "Johann Fust",
+      "Johannes Gutenberg",
+      "Marco Polo"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 35,
+    "q": "Which inventor transformed long-distance communication with the electric telegraph and Morse code?",
+    "opts": [
+      "Samuel Morse",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi",
+      "Samuel Colt"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 36,
+    "q": "Which duo proposed the double-helix model of DNA in 1953?",
+    "opts": [
+      "Rosalind Franklin and Maurice Wilkins",
+      "Watson and Crick",
+      "Mendel and Darwin",
+      "Watson and Franklin"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 37,
+    "q": "Which engineer greatly improved the steam engine, making it far more efficient for factories and transport?",
+    "opts": [
+      "Isambard Kingdom Brunel",
+      "Thomas Newcomen",
+      "James Watt",
+      "George Stephenson"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 38,
+    "q": "Who invented the first true battery, known as the Voltaic pile?",
+    "opts": [
+      "Luigi Galvani",
+      "Hans Christian Ørsted",
+      "Alessandro Volta",
+      "Michael Faraday"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 39,
+    "q": "Which scientist famously flew a kite in a thunderstorm to show lightning is electrical?",
+    "opts": [
+      "Nikola Tesla",
+      "André-Marie Ampère",
+      "Benjamin Franklin",
+      "Alessandro Volta"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 40,
+    "q": "Who developed the rabies vaccine and helped establish germ theory and pasteurization?",
+    "opts": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Edward Jenner",
+      "Joseph Lister"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 41,
+    "q": "Who invented xerography, the dry copying process that led to modern photocopiers?",
+    "opts": [
+      "George Eastman",
+      "Joseph Nicéphore Niépce",
+      "Percy Spencer",
+      "Chester Carlson"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 42,
+    "q": "Which inventor created the phonograph, the first device to record and play back sound?",
+    "opts": [
+      "Guglielmo Marconi",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Emile Berliner"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 43,
+    "q": "Which scientist used microscopes to discover and name 'cells' in 1665?",
+    "opts": [
+      "Robert Brown",
+      "Carl Linnaeus",
+      "Antonie van Leeuwenhoek",
+      "Robert Hooke"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 44,
+    "q": "Which astronomer used an improved telescope to observe Jupiter’s moons and support the idea that planets orbit the Sun?",
+    "opts": [
+      "Tycho Brahe",
+      "Nicolaus Copernicus",
+      "Johannes Kepler",
+      "Galileo Galilei"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 45,
+    "q": "What global system uses satellites to provide precise location anywhere on Earth?",
+    "opts": [
+      "Wi-Fi",
+      "GPS (Global Positioning System)",
+      "GSM",
+      "RADAR"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 46,
+    "q": "Which planet was predicted by mathematical calculations before it was observed through a telescope?",
+    "opts": [
+      "Pluto",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 47,
+    "q": "Which surgeon introduced antiseptic techniques using carbolic acid to cut surgical infections sharply?",
+    "opts": [
+      "Joseph Lister",
+      "Florence Nightingale",
+      "Ignaz Semmelweis",
+      "Louis Pasteur"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 48,
+    "q": "Who discovered natural radioactivity by finding that uranium salts darkened photographic plates?",
+    "opts": [
+      "Ernest Rutherford",
+      "Marie Curie",
+      "Henri Becquerel",
+      "Pierre Curie"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 49,
+    "q": "Who designed the concept of the programmable mechanical 'Analytical Engine', an early computer idea?",
+    "opts": [
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann",
+      "Ada Lovelace"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 50,
+    "q": "Which early web browser helped popularize the World Wide Web with graphical pages in the early 1990s?",
+    "opts": [
+      "Lynx",
+      "Internet Explorer",
+      "Mosaic",
+      "Netscape Navigator"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 51,
+    "q": "Which part of a car converts the pistons' up-and-down motion into the rotating motion that ultimately turns the wheels?",
+    "opts": [
+      "Crankshaft",
+      "Camshaft",
+      "Driveshaft",
+      "Flywheel"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 52,
+    "q": "What do turbochargers add to an engine to increase power?",
+    "opts": [
+      "Cool exhaust gases",
+      "Compress intake air",
+      "Enlarge cylinders",
+      "Add more fuel"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 53,
+    "q": "Which supercar is famous for its distinctive upward-opening 'gullwing' doors introduced in the 1950s?",
+    "opts": [
+      "Chevrolet Corvette",
+      "Ford GT",
+      "Mercedes 300SL",
+      "Lamborghini Miura"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 54,
+    "q": "What is the main purpose of regenerative braking on electric and hybrid vehicles?",
+    "opts": [
+      "Recover kinetic energy to recharge batteries",
+      "Cool the brake pads",
+      "Reduce brake wear only",
+      "Increase top speed"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 55,
+    "q": "Which form of train uses magnetic levitation to eliminate wheel-on-rail friction?",
+    "opts": [
+      "Maglev",
+      "Monorail",
+      "Light rail",
+      "Bullet train"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 56,
+    "q": "What bicycle design most directly enabled comfortable, practical long-distance riding for everyday people in the late 19th century?",
+    "opts": [
+      "Pneumatic tires",
+      "Chainring",
+      "Safety bicycle",
+      "Penny-farthing"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 57,
+    "q": "On a ship, what is the primary function of the rudder?",
+    "opts": [
+      "Anchor the vessel",
+      "Measure depth",
+      "Transfer cargo",
+      "Steer the ship"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 58,
+    "q": "Which term describes how much space each engine cylinder displaces, often used to indicate engine size?",
+    "opts": [
+      "Torque",
+      "RPM",
+      "Displacement (engine size)",
+      "Horsepower"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 59,
+    "q": "Which innovation made high-speed rail routes much safer by eliminating intersections with roads?",
+    "opts": [
+      "Whistle signals",
+      "Overhead catenary",
+      "Grade separation (no level crossings)",
+      "Sleeper ties"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 60,
+    "q": "Which fuel largely replaced coal as the main mover of large commercial ships in the 20th century?",
+    "opts": [
+      "Fuel oil / diesel",
+      "Wind power",
+      "Nuclear power",
+      "Hydrogen fuel"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 61,
+    "q": "What is the purpose of a car's differential?",
+    "opts": [
+      "Increase fuel economy",
+      "Improve braking",
+      "Allow different wheel speeds in a turn",
+      "Equalize tire pressure"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 62,
+    "q": "Why are aerodynamic shapes important for supercars beyond looks?",
+    "opts": [
+      "Reduce drag and increase downforce for better stability and speed",
+      "Make cars look sleek",
+      "Improve interior comfort",
+      "Lower production cost"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 63,
+    "q": "Which undersea tunnel directly links rail passengers between Britain and continental Europe?",
+    "opts": [
+      "English Channel Ferry",
+      "Channel Tunnel",
+      "Seikan Tunnel",
+      "Marmaray Tunnel"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 64,
+    "q": "In car specifications, what does 'CV' (chevaux-vapeur) roughly correspond to?",
+    "opts": [
+      "Engine size",
+      "Cargo volume",
+      "Tire pressure",
+      "Horsepower"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 65,
+    "q": "Which braking technology became standard to help drivers maintain steering control during hard stops?",
+    "opts": [
+      "Anti-lock braking system (ABS)",
+      "Parking brake booster",
+      "Handbrake",
+      "Drum brakes"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 66,
+    "q": "What is the key advantage of containerization in shipping?",
+    "opts": [
+      "Makes ships sail faster",
+      "Reduces crew training",
+      "Standard containers speed loading, reduce handling and losses",
+      "Requires specialized cranes everywhere"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 67,
+    "q": "On a steam locomotive, which part converts steam pressure into mechanical motion?",
+    "opts": [
+      "Cylinders (pistons)",
+      "Boiler",
+      "Smokestack",
+      "Tender"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 68,
+    "q": "Why do trains typically use much less fuel per passenger-mile than cars?",
+    "opts": [
+      "Trains have fewer stops",
+      "Lower rolling resistance and higher passenger capacity",
+      "They run on electricity only",
+      "They travel more slowly"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 69,
+    "q": "Which bicycle component lets you change gears while pedaling?",
+    "opts": [
+      "Saddle",
+      "Chainstay",
+      "Headset",
+      "Derailleur"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 70,
+    "q": "What does the term 'hybrid' mean when used for cars?",
+    "opts": [
+      "Runs only on biodiesel",
+      "Uses two gasoline engines",
+      "Switches between manual and automatic",
+      "Combines an internal-combustion engine and an electric motor"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 71,
+    "q": "Which manufacturer is widely credited with popularizing the mid-engined layout for production supercars with the Miura?",
+    "opts": [
+      "Lamborghini",
+      "Ferrari",
+      "McLaren",
+      "Porsche"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 72,
+    "q": "What helps large ships move sideways in tight harbors to assist docking without forward motion?",
+    "opts": [
+      "Ballast tanks",
+      "Sea anchor",
+      "Bow thruster",
+      "Anchor winch"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 73,
+    "q": "Which component circulates coolant through an engine to help regulate temperature?",
+    "opts": [
+      "Water pump",
+      "Alternator",
+      "Radiator",
+      "Thermostat"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 74,
+    "q": "Why are tilting trains used on winding routes?",
+    "opts": [
+      "They look more modern",
+      "They save fuel at low speed",
+      "They reduce track wear only",
+      "They tilt into curves so trains can take turns faster with less sideways force"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 75,
+    "q": "What technology allows modern ships to know their precise position anywhere on the globe?",
+    "opts": [
+      "Sonar",
+      "Radio beacon",
+      "GPS (satellite positioning)",
+      "Sextant"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 76,
+    "q": "What primarily produces lift on an airplane wing?",
+    "opts": [
+      "Differences in air pressure from airflow shape and angle of attack",
+      "Gyroscopic forces from the propellers",
+      "The engines pushing the wing up",
+      "Electromagnetic attraction to the ground"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 77,
+    "q": "Why do many modern airliners have upturned wingtips called winglets?",
+    "opts": [
+      "They increase the plane’s cargo capacity",
+      "They make the wings stronger for turbulence",
+      "They reduce drag by weakening wingtip vortices",
+      "They’re purely decorative"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 78,
+    "q": "What color is an aircraft “black box” actually painted to help recovery?",
+    "opts": [
+      "Bright orange",
+      "Black",
+      "White",
+      "Dark blue"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 79,
+    "q": "In aviation, what does a “stall” mean?",
+    "opts": [
+      "The landing gear fails to extend",
+      "Airflow separates from the wing and lift drops",
+      "The pilot intentionally slows to taxi speed",
+      "The engines have stopped"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 80,
+    "q": "Why do jets often leave long white contrails behind them at high altitude?",
+    "opts": [
+      "Wings shedding ice",
+      "Water vapor in exhaust that condenses and freezes in cold, thin air",
+      "Soot and smoke from burning fuel",
+      "Fuel igniting in the atmosphere"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 81,
+    "q": "Which flight control moves an airplane’s nose up and down?",
+    "opts": [
+      "Rudder",
+      "Spoilers",
+      "Elevator",
+      "Ailerons"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 82,
+    "q": "Which phase of a typical commercial flight do pilots most often fly manually?",
+    "opts": [
+      "Autopilot flies every phase",
+      "Takeoff and landing",
+      "Only taxiing on the ground",
+      "Cruise at high altitude"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 83,
+    "q": "Why are modern airliners often powered by high‑bypass turbofan engines?",
+    "opts": [
+      "They produce the highest top speed available",
+      "They move a large mass of air at lower speed for better fuel efficiency",
+      "They are the cheapest to manufacture",
+      "They eliminate exhaust emissions entirely"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 84,
+    "q": "What causes a sonic boom?",
+    "opts": [
+      "Pilots opening a transonic valve",
+      "A large amount of turbulence breaking the sound barrier",
+      "Shock waves formed when an aircraft travels faster than the speed of sound",
+      "The engine suddenly increasing power"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 85,
+    "q": "About how long does sunlight take to reach Earth?",
+    "opts": [
+      "About 1 second",
+      "About 24 hours",
+      "About 3 hours",
+      "About 8 minutes"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 86,
+    "q": "Why do we see the Moon go through phases like crescent and full?",
+    "opts": [
+      "The Moon changes shape as it spins",
+      "The Sun’s brightness varies daily",
+      "Earth’s shadow falling on the Moon every month",
+      "The Moon’s position relative to the Sun and Earth changes how much of its sunlit side we see"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 87,
+    "q": "What surprising fact about Saturn relates to its overall density?",
+    "opts": [
+      "It is denser than iron",
+      "It has the highest density of the gas giants",
+      "Its average density is less than water, so it would float in a large enough ocean",
+      "Its density is the same as Earth’s"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 88,
+    "q": "How do spacecraft slow down to arrive at a body when there’s no atmosphere to use parachutes?",
+    "opts": [
+      "Open wings to create lift",
+      "Use retro rockets (firing engines backward)",
+      "Rub against space dust to slow down",
+      "Deploy parachutes anyway"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 89,
+    "q": "What is a gravity assist (slingshot) maneuver used for in space missions?",
+    "opts": [
+      "To shield the craft from solar radiation",
+      "To refuel a spacecraft from a planet’s atmosphere",
+      "To change a spacecraft’s speed and direction using a planet’s motion",
+      "To land gently on a planet without engines"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 90,
+    "q": "Why do many re-entering spacecraft use ablative heat shields?",
+    "opts": [
+      "They spin to create cool air",
+      "The shield slowly burns or erodes, carrying heat away and protecting the craft",
+      "They convert heat into electricity",
+      "They reflect heat like a mirror"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 91,
+    "q": "Which planet in our solar system is known for having the highest recorded wind speeds?",
+    "opts": [
+      "Earth",
+      "Mars",
+      "Neptune",
+      "Venus"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 92,
+    "q": "What causes day and night on Earth?",
+    "opts": [
+      "Earth rotating on its axis",
+      "The Moon blocking sunlight daily",
+      "Earth’s changing distance from the Sun as it orbits",
+      "The Sun switching on and off"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 93,
+    "q": "Why do astronauts and satellites appear to float in orbit?",
+    "opts": [
+      "They are in continuous free‑fall around Earth, moving fast enough sideways to keep missing it",
+      "They are pushed up by a cushion of air",
+      "They turn off their mass in orbit",
+      "There is no gravity in orbit"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 94,
+    "q": "What is a galaxy?",
+    "opts": [
+      "A comet that grew very large",
+      "A system of millions or billions of stars, gas, and dust bound by gravity",
+      "A cloud of pure gas with no stars",
+      "A single giant planet"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 95,
+    "q": "Why does Mars appear red to us?",
+    "opts": [
+      "Because of the Sun’s color changing when viewed from Mars",
+      "Because of red plants covering the planet",
+      "Because of widespread iron oxide (rust) on its surface",
+      "Because its atmosphere is mostly carbon dioxide gas that’s red"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 96,
+    "q": "Why does a comet’s tail always point away from the Sun?",
+    "opts": [
+      "The comet’s spin throws the tail outward",
+      "Gravity pulls the tail to the outer solar system",
+      "Comets eject material only on the night side",
+      "Solar radiation and the solar wind push dust and gas away from the Sun"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 97,
+    "q": "Why do pilots file a flight plan before departing?",
+    "opts": [
+      "To predict exact in-flight weather changes",
+      "To reserve a gate at the destination",
+      "To impress customs officials",
+      "So air traffic control can track the route and initiate search procedures if the aircraft is overdue"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 98,
+    "q": "Approximately how fast does the International Space Station travel around Earth?",
+    "opts": [
+      "About 0.5 kilometers per second",
+      "About 300 kilometers per second",
+      "About 0.001 kilometers per second",
+      "About 7.7 kilometers per second (roughly 28,000 km/h)"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 99,
+    "q": "Why are many older propeller‑driven planes noisier than modern airliners?",
+    "opts": [
+      "They fly at supersonic speeds",
+      "They often use exposed propellers and piston engines that produce more mechanical and aerodynamic noise",
+      "They intentionally have louder engines",
+      "They lack radio equipment that quiets the sound"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 100,
+    "q": "Why can’t sound travel through the vacuum of space?",
+    "opts": [
+      "Sound requires a material medium (air, water, or solid) to carry pressure waves, and vacuum has none",
+      "Sound travels, but instruments can’t detect it",
+      "Sound only travels in atmospheres with oxygen",
+      "Space is too cold for sound"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 101,
+    "q": "What does RAM (random-access memory) primarily do in a computer?",
+    "opts": [
+      "Stores files permanently",
+      "Holds programs and data currently in use",
+      "Speeds up your internet connection",
+      "Cools the processor"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 102,
+    "q": "Why do solid-state drives (SSDs) often make computers feel faster than hard disk drives (HDDs)?",
+    "opts": [
+      "They use more power",
+      "They store data on spinning disks",
+      "They have larger screens",
+      "They access data electronically with no moving parts"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 103,
+    "q": "What is the primary job of a web browser like Chrome or Firefox?",
+    "opts": [
+      "Encrypting all your online activity by default",
+      "Running your operating system",
+      "Backing up your files to the cloud",
+      "Displaying and navigating web pages"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 104,
+    "q": "How does two-factor authentication (2FA) improve account security?",
+    "opts": [
+      "It changes your password regularly",
+      "It hides your username",
+      "It requires a second proof of identity beyond the password",
+      "It encrypts your messages"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 105,
+    "q": "What does 'open source' software mean for users?",
+    "opts": [
+      "Its source code is available for anyone to inspect and modify",
+      "It runs only on servers",
+      "It's maintained by a single company",
+      "It costs nothing"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 106,
+    "q": "Why is a GPU (graphics processing unit) useful beyond rendering images?",
+    "opts": [
+      "It stores long-term files",
+      "It manages your computer's power supply",
+      "It can perform many simple calculations in parallel for tasks like AI and video encoding",
+      "It provides extra network bandwidth"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 107,
+    "q": "What's the purpose of a CAPTCHA on websites?",
+    "opts": [
+      "To speed up page loading",
+      "To track user behavior across sites",
+      "To encrypt submitted forms",
+      "To tell humans and automated bots apart"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 108,
+    "q": "What's the role of a domain name in a web address (like example.com)?",
+    "opts": [
+      "It maps to an IP address that identifies the server on the internet",
+      "It provides encryption keys",
+      "It stores the website's content",
+      "It is the same as an email address"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 109,
+    "q": "Why are cookies used by websites?",
+    "opts": [
+      "To slow down browsers",
+      "To hide ads",
+      "To remember preferences and keep you logged in",
+      "To permanently store your files"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 110,
+    "q": "What's a simple way to protect your phone battery's lifespan?",
+    "opts": [
+      "Disable all updates",
+      "Remove the SIM card when not in use",
+      "Always use public chargers",
+      "Avoid keeping it at 100% or 0% for long periods"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 111,
+    "q": "What does 'cloud computing' mean in practical terms?",
+    "opts": [
+      "Computing is done only on your local device",
+      "You use services and storage hosted on remote servers via the internet",
+      "It refers to weather-based servers",
+      "Your data is stored in a crystal"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 112,
+    "q": "How does end-to-end encryption protect chats?",
+    "opts": [
+      "It stores messages on a central server",
+      "It makes messages visible to the service provider",
+      "Only the communicating devices can read message contents, not intermediaries",
+      "It deletes messages after 24 hours"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 113,
+    "q": "Why do programmers use version control systems like Git?",
+    "opts": [
+      "To automatically fix bugs",
+      "To translate code into other languages",
+      "To track code changes, collaborate, and revert mistakes",
+      "To speed up program execution"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 114,
+    "q": "What's a 'phishing' attack?",
+    "opts": [
+      "Software that speeds up downloads",
+      "An internet-connected fishing sensor",
+      "A scam that tricks people into revealing sensitive information via fake messages or sites",
+      "A type of hardware failure"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 115,
+    "q": "Why is HTTPS important when you visit a website?",
+    "opts": [
+      "It encrypts data between your browser and the site so attackers can't read it easily",
+      "It makes the website load in offline mode",
+      "It guarantees the site is free to use",
+      "It speeds up your browser by 10x"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 116,
+    "q": "What does 'open standards' (like HTML) achieve on the web?",
+    "opts": [
+      "They let different browsers and tools work together using shared rules",
+      "They allow only one company to control the web",
+      "They encrypt all website content by default",
+      "They prevent any changes to how browsers work"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 117,
+    "q": "What's a common reason software updates are released?",
+    "opts": [
+      "To remove features users like",
+      "To make files larger",
+      "To change your device's hardware",
+      "To fix security vulnerabilities and improve reliability"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 118,
+    "q": "How does a DNS (Domain Name System) help you reach a website?",
+    "opts": [
+      "It stores your passwords",
+      "It encrypts your email automatically",
+      "It speeds up your Wi‑Fi signal",
+      "It translates a human-friendly domain into an IP address the network uses"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 119,
+    "q": "What's the main difference between HTML and CSS?",
+    "opts": [
+      "CSS translates HTML into a different language",
+      "HTML structures content; CSS controls how it looks",
+      "Both are programming languages",
+      "HTML stores images, CSS runs scripts"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 120,
+    "q": "Why do apps ask for permissions like location or microphone?",
+    "opts": [
+      "To install updates automatically",
+      "To make the app free",
+      "Because they need access to those sensors or data to provide features",
+      "To speed up the device's processor"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 121,
+    "q": "What's a blockchain, in simple terms?",
+    "opts": [
+      "A cloud storage service",
+      "A type of smartphone hardware",
+      "A password manager",
+      "A shared digital ledger where transactions are recorded in linked blocks"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 122,
+    "q": "Why do devices use both Wi‑Fi and cellular data instead of just one?",
+    "opts": [
+      "To duplicate your contacts",
+      "To let you connect to local networks for faster, often cheaper internet and use cellular when away from Wi‑Fi",
+      "To always use more battery",
+      "To prevent apps from updating"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 123,
+    "q": "What's the key advantage of libraries and frameworks in coding?",
+    "opts": [
+      "They make code run without a CPU",
+      "They replace the need to learn programming",
+      "They provide prebuilt components so you don't rewrite common tasks",
+      "They encrypt your code automatically"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 124,
+    "q": "How does two-step verification differ from a simple password recovery question?",
+    "opts": [
+      "It always uses biometric data",
+      "It requires no user interaction",
+      "It's done only by phone companies",
+      "It adds an independent proof (like a code or device) instead of relying on easily guessed answers"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 125,
+    "q": "Why is backing up your data important?",
+    "opts": [
+      "It stops emails",
+      "It increases your battery life",
+      "It makes files load faster",
+      "It lets you restore files if your device is lost, damaged, or attacked"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 126,
+    "q": "Which ocean zone receives enough sunlight for most photosynthesis?",
+    "opts": [
+      "Bathypelagic zone",
+      "Abyssal zone",
+      "Epipelagic (sunlight) zone",
+      "Hadal zone"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 127,
+    "q": "What is the thermocline in the ocean?",
+    "opts": [
+      "A layer where salinity spikes",
+      "A layer of rapid temperature change",
+      "A deep zone of strong currents",
+      "A layer where light disappears"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 128,
+    "q": "When a wave travels across the ocean, what actually moves across the surface?",
+    "opts": [
+      "Masses of water carrying fish",
+      "Heat currents",
+      "Salt concentrations",
+      "Energy passing through the water"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 129,
+    "q": "What mainly drives surface ocean currents?",
+    "opts": [
+      "Corals and reefs",
+      "Tidal pull",
+      "Underwater volcanoes",
+      "Wind patterns"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 130,
+    "q": "Which current helps keep northwestern Europe warmer than similar latitudes?",
+    "opts": [
+      "Humboldt Current",
+      "Gulf Stream",
+      "Canary Current",
+      "Kuroshio Current"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 131,
+    "q": "What does upwelling bring to the ocean surface that boosts fisheries?",
+    "opts": [
+      "Nutrients from the deep",
+      "Freshwater from rivers",
+      "Warm surface water",
+      "Salt from the bottom"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 132,
+    "q": "Coral reefs are built primarily by which of these?",
+    "opts": [
+      "Plants and algae",
+      "Mineral deposits from rivers",
+      "Tiny animals called coral polyps",
+      "Colonies of sponges"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 133,
+    "q": "What causes coral bleaching?",
+    "opts": [
+      "Corals being eaten by fish",
+      "Loss of symbiotic algae after heat stress",
+      "Excessive salt in seawater",
+      "Corals migrating to deeper water"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 134,
+    "q": "Which technology lets scientists explore the deepest ocean without people aboard?",
+    "opts": [
+      "Remotely operated vehicles (ROVs)",
+      "Drift bottles",
+      "Satellite imaging",
+      "SCUBA gear"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 135,
+    "q": "What does sonar use to map the seafloor?",
+    "opts": [
+      "Reflected sound pulses",
+      "Ocean temperature",
+      "Sunlight reflection",
+      "Magnetic anomalies"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 136,
+    "q": "What occurs at mid-ocean ridges?",
+    "opts": [
+      "Coral reefs grow on volcanic islands",
+      "Currents reverse direction",
+      "New seafloor is created as tectonic plates spread",
+      "Deep trenches form where plates collide"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 137,
+    "q": "Ocean trenches typically form where one tectonic plate is forced under another. What is that process called?",
+    "opts": [
+      "Rifting",
+      "Subduction",
+      "Erosion",
+      "Uplift"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 138,
+    "q": "What usually causes tsunamis?",
+    "opts": [
+      "Large, sudden displacement of the seafloor (like earthquakes)",
+      "Routine tides",
+      "Extreme wind storms",
+      "Melting ice caps"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 139,
+    "q": "What is the primary cause of the ocean's tides?",
+    "opts": [
+      "The Moon's gravity",
+      "Earth's wind patterns",
+      "Salinity changes",
+      "Underwater volcanic activity"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 140,
+    "q": "Which is the largest ocean on Earth by surface area?",
+    "opts": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean",
+      "Indian Ocean"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 141,
+    "q": "Where do floating plastics tend to accumulate into large patches like the Great Pacific Garbage Patch?",
+    "opts": [
+      "River mouths",
+      "Polar ice edges",
+      "Subtropical gyres where currents converge",
+      "Mid-ocean trenches"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 142,
+    "q": "Where is seawater salinity generally lowest?",
+    "opts": [
+      "Open ocean",
+      "Deep ocean trenches",
+      "Equatorial gyres",
+      "Estuaries where rivers meet the sea"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 143,
+    "q": "What is a key benefit of marine protected areas (MPAs)?",
+    "opts": [
+      "They change ocean currents to reduce storms",
+      "They guarantee no ships ever visit the area",
+      "They allow fish and habitats to recover and increase biodiversity",
+      "They eliminate all pollution"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 144,
+    "q": "Which coastal habitats are most associated with 'blue carbon'—long-term carbon storage?",
+    "opts": [
+      "Mangroves, seagrasses and salt marshes",
+      "Coral reefs",
+      "Open ocean",
+      "Sandy beaches and dunes"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 145,
+    "q": "Roughly how deep does sunlight penetrate the open ocean so photosynthesis can occur?",
+    "opts": [
+      "Over 10,000 meters",
+      "About 10 meters",
+      "About 200 meters",
+      "About 2,000 meters"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 146,
+    "q": "During an El Niño event in the Pacific, what tends to happen to coastal fisheries off Peru?",
+    "opts": [
+      "They decline because upwelling weakens",
+      "They remain unchanged",
+      "They thrive because of extra nutrients",
+      "They move entirely to freshwater rivers"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 147,
+    "q": "Where do kelp forests typically thrive?",
+    "opts": [
+      "Warm, shallow tropical lagoons",
+      "Freshwater lakes",
+      "Deep ocean trenches",
+      "Cold, nutrient-rich temperate coastal waters"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 148,
+    "q": "What is an ocean gyre?",
+    "opts": [
+      "A migrating path used by whales",
+      "A chain of underwater volcanoes",
+      "A long deep-sea trench",
+      "A circular system of ocean currents"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 149,
+    "q": "How can satellites help scientists infer seafloor features from space?",
+    "opts": [
+      "By detecting whale songs",
+      "By photographing the seabed directly",
+      "By measuring tiny variations in sea-surface height caused by undersea mountains and valleys",
+      "By sampling seawater remotely"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 150,
+    "q": "Why do many deep-sea animals produce bioluminescent light?",
+    "opts": [
+      "To perform photosynthesis at depth",
+      "To attract prey or mates and communicate",
+      "To warm their bodies",
+      "To desalinate surrounding water"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 151,
+    "q": "Which animal is the largest on Earth?",
+    "opts": [
+      "Great white shark",
+      "Blue whale",
+      "Giant squid",
+      "African elephant"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 152,
+    "q": "How do many whales communicate over very long distances in the ocean?",
+    "opts": [
+      "Electrical pulses",
+      "Low‑frequency songs and calls",
+      "Bioluminescent signals",
+      "Flashing skin patterns"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 153,
+    "q": "What are shark skeletons made of?",
+    "opts": [
+      "Keratin plates",
+      "Calcified plates",
+      "Bone like other fish",
+      "Cartilage, like flexible rubber"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 154,
+    "q": "What surprising behavior has been observed in some octopuses?",
+    "opts": [
+      "Photosynthesizing under rocks",
+      "Only eating plants",
+      "Using tools like coconut shells for shelter",
+      "Living in freshwater rivers"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 155,
+    "q": "How do most fish extract oxygen from water?",
+    "opts": [
+      "Through lungs",
+      "Through gills",
+      "By absorbing it through scales",
+      "By filtering it with fins"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 156,
+    "q": "How do sea turtles often navigate thousands of miles to nesting beaches?",
+    "opts": [
+      "Listening to whale songs",
+      "Following ocean currents visually",
+      "Sensing Earth’s magnetic field",
+      "Smelling salt in the water"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 157,
+    "q": "Why do many deep‑sea animals produce light (bioluminesce)?",
+    "opts": [
+      "To store oxygen",
+      "To attract prey, mates or communicate",
+      "To heat their bodies",
+      "To photosynthesize at night"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 158,
+    "q": "Why are many fish darker on top and lighter underneath?",
+    "opts": [
+      "To store heat in the dark top",
+      "Countershading to hide from predators and prey",
+      "To attract mates from below",
+      "To absorb more sunlight"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 159,
+    "q": "How do giant manta rays mainly feed?",
+    "opts": [
+      "Filtering plankton through their gill rakers",
+      "Using sharp teeth to tear fish",
+      "Grinding coral for algae",
+      "Scavenging dead animals"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 160,
+    "q": "What can many octopus species do if they lose an arm?",
+    "opts": [
+      "Detach their brain and survive",
+      "Clone themselves",
+      "Molt and grow a shell",
+      "Regrow the missing arm over time"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 161,
+    "q": "How do baleen whales such as the humpback feed large amounts of small prey?",
+    "opts": [
+      "Using baleen plates to filter plankton and small fish",
+      "Hunting single large fish",
+      "Suctioning water into a stomach pouch",
+      "Scavenging whale carcasses"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 162,
+    "q": "What is notable about shark teeth over a shark’s lifetime?",
+    "opts": [
+      "They fuse into plates",
+      "They grow only once as juveniles",
+      "They are replaced continuously",
+      "They never fall out"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 163,
+    "q": "Why can clownfish live among sea anemone stinging tentacles?",
+    "opts": [
+      "They wear a protective shell",
+      "They sing to calm the anemone",
+      "They are immune thanks to a special mucus coating",
+      "They hide in the anemone’s mouth"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 164,
+    "q": "How do many deep‑sea fish avoid problems from crushing pressure?",
+    "opts": [
+      "They store air in external sacs",
+      "They live inside rock cavities only",
+      "They inflate heavy air bladders",
+      "They lack gas‑filled swim bladders and have flexible bodies"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 165,
+    "q": "In seahorse species, which parent carries and tends the developing eggs?",
+    "opts": [
+      "The female on her tail",
+      "Both parents in a nest",
+      "Neither — eggs float freely",
+      "The male in a brood pouch"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 166,
+    "q": "Why does the hammerhead shark have a flattened, wide head?",
+    "opts": [
+      "To swim faster in straight lines",
+      "To improve electroreception and widen vision",
+      "To make loud clacking noises",
+      "To store extra fat"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 167,
+    "q": "What is one key benefit for fish that swim in tight schools?",
+    "opts": [
+      "They age slower",
+      "Each fish can breathe less",
+      "They confuse predators and reduce drag",
+      "They become invisible to sonar"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 168,
+    "q": "What is a turtle’s shell mainly made from?",
+    "opts": [
+      "A layer of packed cartilage",
+      "Scales modified into plates",
+      "Hardened keratin like a beetle’s shell",
+      "An external bony frame of fused ribs and spine covered by skin"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 169,
+    "q": "Why do humpback whale songs sometimes spread widely among populations?",
+    "opts": [
+      "Whales learn new songs and copy each other culturally",
+      "Songs are encoded genetically and spread by migration",
+      "Whales broadcast songs from a central leader",
+      "Underwater currents carry the sound patterns"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 170,
+    "q": "How can octopuses match complicated backgrounds so quickly and precisely?",
+    "opts": [
+      "They build tiny camouflage structures",
+      "They release scented chemicals to trick predators",
+      "They freeze and rely on luck",
+      "They change color and skin texture using special skin cells"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 171,
+    "q": "What special sense helps sharks detect a hidden or buried prey’s heartbeat?",
+    "opts": [
+      "Electroreception via ampullae that sense tiny electric fields",
+      "Infrared heat vision",
+      "Antennae like insects",
+      "A magnetic compass sense"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 172,
+    "q": "Which fish has been observed using rocks as tools to break open shells?",
+    "opts": [
+      "Pufferfish",
+      "Clownfish",
+      "Angelfish",
+      "Tuskfish (a wrasse)"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 173,
+    "q": "Which sea turtle species is best known for eating jellyfish as a primary food?",
+    "opts": [
+      "Leatherback turtle",
+      "Olive ridley turtle",
+      "Loggerhead turtle",
+      "Green turtle"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 174,
+    "q": "What unusual ability do seahorse eyes have that helps them hunt?",
+    "opts": [
+      "They can move independently to look in different directions at once",
+      "They glow to attract mates",
+      "They can see ultraviolet light only",
+      "They flash to stun prey"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 175,
+    "q": "What are the tiny tooth‑like scales on shark skin called, and what do they do?",
+    "opts": [
+      "Feather scales for warmth",
+      "Keratin spikes for catching prey",
+      "Ganoid plates for breathing",
+      "Dermal denticles that reduce drag and protect skin"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 176,
+    "q": "Which of these is a monotreme — a mammal that lays eggs?",
+    "opts": [
+      "Platypus",
+      "Koala",
+      "Bandicoot",
+      "Tasmanian devil"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 177,
+    "q": "Which mammal is the only one capable of sustained true flight?",
+    "opts": [
+      "Bat",
+      "Sugar glider",
+      "Flying squirrel",
+      "Ostrich"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 178,
+    "q": "Which mammal is the largest animal on Earth by mass?",
+    "opts": [
+      "White rhino",
+      "Blue whale",
+      "Giraffe",
+      "African elephant"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 179,
+    "q": "Which big cat is the fastest land mammal over short distances?",
+    "opts": [
+      "Cheetah",
+      "Leopard",
+      "Lion",
+      "Tiger"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 180,
+    "q": "Which marine mammal uses echolocation to navigate and hunt?",
+    "opts": [
+      "Walrus",
+      "Manatee",
+      "Dolphin",
+      "Seal"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 181,
+    "q": "Which mammal carries and nurses its young inside a pouch?",
+    "opts": [
+      "Kangaroo",
+      "Elephant",
+      "Platypus",
+      "Horse"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 182,
+    "q": "Which mammal sleeps with one half of its brain awake so it can surface for air?",
+    "opts": [
+      "Seal",
+      "Sea otter",
+      "Manatee",
+      "Dolphin"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 183,
+    "q": "What special sense do many nocturnal mammals rely on using whiskers?",
+    "opts": [
+      "Electrical sensing",
+      "Taste",
+      "Tactile sensing via vibrissae",
+      "Ultraviolet vision"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 184,
+    "q": "Why do polar bears appear white even though their skin is black?",
+    "opts": [
+      "They have white pigment",
+      "Algae in fur makes them white",
+      "Their fur is hollow and scatters light",
+      "They roll in snow for camouflage"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 185,
+    "q": "Which mammal has a prehensile tail it can use like an extra hand?",
+    "opts": [
+      "Elephant",
+      "Hippopotamus",
+      "Cheetah",
+      "Spider monkey"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 186,
+    "q": "Which species holds records for the deepest recorded dives among mammals, often staying underwater for over an hour?",
+    "opts": [
+      "Cuvier's beaked whale",
+      "Humpback whale",
+      "Harbor seal",
+      "Sperm whale"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 187,
+    "q": "Which mammal has the longest neck to reach high leaves?",
+    "opts": [
+      "Moose",
+      "Giraffe",
+      "Camel",
+      "Okapi"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 188,
+    "q": "Which mammal uses a trunk as a multipurpose tool for breathing, smelling, touching and lifting?",
+    "opts": [
+      "Elephant",
+      "Tapir",
+      "Anteater",
+      "Rhino"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 189,
+    "q": "Which mammal is famous for living in complex social groups called pods?",
+    "opts": [
+      "Meerkat",
+      "Otter",
+      "Penguin",
+      "Dolphin"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 190,
+    "q": "Which mammal is known for a distinctive \"laugh\" vocalization and very powerful jaws for crushing bones?",
+    "opts": [
+      "Hyena",
+      "Fox",
+      "Raccoon",
+      "Badger"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 191,
+    "q": "Which adaptation allows cows and deer to digest tough grasses they can't break down themselves?",
+    "opts": [
+      "Sharp front teeth",
+      "Multiple stomach chambers for fermentation",
+      "Photosynthesis-like bacteria in mouth",
+      "Highly acidic single stomach"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 192,
+    "q": "What is torpor, a short-term survival strategy used by some small mammals?",
+    "opts": [
+      "A brief drop in metabolic rate and body temperature",
+      "Storing fat in winter",
+      "Building larger nests",
+      "Shifting to nocturnal life permanently"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 193,
+    "q": "Which common small mammal uses ultrasonic squeaks for communication that humans usually can't hear?",
+    "opts": [
+      "Mouse",
+      "Rabbit",
+      "Hamster",
+      "Guinea pig"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 194,
+    "q": "Whose milk is exceptionally rich in fat to quickly build blubber or fat reserves in newborns?",
+    "opts": [
+      "Seal",
+      "Human",
+      "Goat",
+      "Cow"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 195,
+    "q": "Which mammal is famous for digging elaborate burrow systems called warrens?",
+    "opts": [
+      "Fox",
+      "Beaver",
+      "Rabbit",
+      "Badger"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 196,
+    "q": "Which semi-aquatic rodent is famous for cutting trees with continuously growing incisors?",
+    "opts": [
+      "Porcupine",
+      "Otter",
+      "Beaver",
+      "Squirrel"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 197,
+    "q": "Which mammal famously sleeps up to around 18–22 hours a day to conserve energy?",
+    "opts": [
+      "Cheetah",
+      "Koala",
+      "Dolphin",
+      "Elephant"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 198,
+    "q": "Which mammal has one of the longest gestation periods, nearly two years for a single calf?",
+    "opts": [
+      "African elephant",
+      "Horse",
+      "Blue whale",
+      "Giraffe"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 199,
+    "q": "Which mammal changes its fur color seasonally to blend with snow in winter?",
+    "opts": [
+      "Wolf",
+      "Arctic fox",
+      "Polar bear",
+      "Caribou"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 200,
+    "q": "Which small mammal species is renowned for sentry behavior, standing watch to warn the group of predators?",
+    "opts": [
+      "Meerkat",
+      "Beaver",
+      "Hedgehog",
+      "Rabbit"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 201,
+    "q": "Which bird makes the longest annual migration, traveling from Arctic summer to Antarctic winter and back?",
+    "opts": [
+      "Arctic tern",
+      "Canada goose",
+      "Barn swallow",
+      "Mallard"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 202,
+    "q": "How do many migratory birds navigate across thousands of miles with surprising accuracy?",
+    "opts": [
+      "They rely on bird calls",
+      "They sense Earth's magnetic field",
+      "They only follow the youngest birds",
+      "They follow roads and rivers"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 203,
+    "q": "What feature lets hummingbirds hover in midair while feeding from flowers?",
+    "opts": [
+      "Exceptionally light bones",
+      "Extra-long tail feathers",
+      "Oversized lungs",
+      "Wings that rotate in a figure-eight pattern"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 204,
+    "q": "Why can owls fly so quietly compared with many other birds?",
+    "opts": [
+      "They coat their wings with oil before flying",
+      "They flap more slowly than other birds",
+      "They have perfectly smooth feathers",
+      "Their flight feathers have comb-like serrations on the leading edge that break up turbulence"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 205,
+    "q": "What protein are bird feathers primarily made of?",
+    "opts": [
+      "Keratin",
+      "Chitin",
+      "Cellulose",
+      "Calcium carbonate"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 206,
+    "q": "Why do many waterbirds have bare legs without feathers?",
+    "opts": [
+      "To avoid soaked feathers and reduce drag in water",
+      "To make them fly faster",
+      "To store fat for migration",
+      "To show off to mates"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 207,
+    "q": "What is one main purpose of preening and applying oil from the preen gland?",
+    "opts": [
+      "To spread oil that waterproofs and conditions feathers",
+      "Storing food for chicks",
+      "Building nest structures",
+      "Marking territory with scent"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 208,
+    "q": "Why are some bird feathers bright blue even when there is no blue pigment?",
+    "opts": [
+      "They stain themselves with blue algae",
+      "They eat only blue foods",
+      "Microscopic feather structures scatter light to create the blue color (structural color)",
+      "They produce a rare blue pigment"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 209,
+    "q": "How does flying in a V-formation help migrating birds?",
+    "opts": [
+      "It reduces aerodynamic drag so birds save energy",
+      "It helps them synchronize their calls",
+      "It makes them look like a single large bird to predators",
+      "It keeps them warmer at high altitude"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 210,
+    "q": "What does brood parasitism mean in bird behavior?",
+    "opts": [
+      "Laying eggs in another bird's nest so the host raises the chick",
+      "Pairs building multiple nests",
+      "Chicks leaving the nest weeks after hatching",
+      "Parents share chick-feeding duties with neighbors"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 211,
+    "q": "Why are the eggs of many cliff-nesting birds pear- or pyriform-shaped?",
+    "opts": [
+      "They are easier for parents to carry",
+      "They have stronger shells for high winds",
+      "They contain more yolk for larger chicks",
+      "Their shape makes them roll in a tight circle so they’re less likely to fall off ledges"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 212,
+    "q": "What are remiges and rectrices in bird anatomy?",
+    "opts": [
+      "The wing (remiges) and tail (rectrices) flight feathers",
+      "Types of nesting material",
+      "Navigation organs in migration",
+      "Different beak shapes"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 213,
+    "q": "How do swallows and similar birds attach mud nests to vertical walls and eaves?",
+    "opts": [
+      "They weave plant fibers into glue",
+      "They use spider silk alone",
+      "They use pebbles cemented with tree sap",
+      "They use a paste of saliva and mud that hardens"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 214,
+    "q": "Which ocean bird is famous for gliding huge distances with almost no flapping by using wind gradients?",
+    "opts": [
+      "Pelican",
+      "Albatross",
+      "Seagull",
+      "Penguin"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 215,
+    "q": "How do many nocturnally migrating songbirds orient themselves on cloudless nights?",
+    "opts": [
+      "By following streetlights",
+      "By learning and navigating by star patterns",
+      "By only using the Earth's magnetic field",
+      "By listening for ocean waves"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 216,
+    "q": "Why do male birds often display brighter plumage than females?",
+    "opts": [
+      "Because females can't see colors",
+      "To confuse predators",
+      "To attract mates and signal fitness through sexual selection",
+      "To store extra nutrients in feathers"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 217,
+    "q": "What lets large ocean birds like albatrosses glide for hours without flapping?",
+    "opts": [
+      "They rely on thermals like vultures",
+      "They store energy in leg muscles",
+      "They inflate air sacs like balloons",
+      "Their very long, narrow wings plus wind‑gradient soaring techniques"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 218,
+    "q": "Why do many small songbirds migrate at night instead of during the day?",
+    "opts": [
+      "To avoid daytime predators and to use the stars for navigation",
+      "They are blind during the day",
+      "Because food is only available at night",
+      "To keep warm during long journeys"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 219,
+    "q": "How do birds control speed and direction when they come in to land?",
+    "opts": [
+      "They use their beaks as anchors",
+      "They spread and tilt their wings and tail to slow down and steer",
+      "They close their eyes and use memory",
+      "They inflate special flaps under their feet"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 220,
+    "q": "Which sensory ability helps birds spot ripe fruit or cryptic insects on leaves?",
+    "opts": [
+      "Extremely sharp color vision, often including ultraviolet",
+      "Highly developed sense of smell",
+      "Enhanced night vision",
+      "Echolocation like bats"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 221,
+    "q": "Why do birds moult (shed and regrow) their feathers regularly?",
+    "opts": [
+      "To change their body size seasonally",
+      "To replace worn feathers so flight and insulation remain effective",
+      "To turn their feathers into scales for part of the year",
+      "To make louder calls"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 222,
+    "q": "What is 'wing loading' and how does it affect a bird's flight?",
+    "opts": [
+      "A feather pattern used for signaling",
+      "A type of feeding behavior",
+      "The ratio of body weight to wing area; higher loading means faster, less maneuverable flight",
+      "A measure of nest strength"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 223,
+    "q": "How do cavity-nesting birds like woodpeckers keep chicks safe and sheltered?",
+    "opts": [
+      "They sleep on thin outer branches",
+      "They excavate or use tree cavities and holes as protected nests",
+      "They build open-platform nests on the ground",
+      "They lay eggs in shallow water"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 224,
+    "q": "What happens to many ducks and similar waterfowl during a simultaneous molt?",
+    "opts": [
+      "They migrate nonstop for months",
+      "They stop eating entirely",
+      "They grow extra feathers making them better fliers",
+      "They become temporarily unable to fly until new flight feathers grow"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 225,
+    "q": "How do brood parasites such as cuckoos often trick host parents into raising their young?",
+    "opts": [
+      "They bring food to host chicks",
+      "They teach the host pair the parasite's song",
+      "They build the largest nest so hosts move in",
+      "Some lay eggs that closely mimic the host's eggs and often hatch earlier so the parasite chick gets all the care"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 226,
+    "q": "Which layer of a tropical rainforest receives the most direct sunlight?",
+    "opts": [
+      "Emergent layer",
+      "Understory layer",
+      "Forest floor",
+      "Canopy layer"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 227,
+    "q": "What do mycorrhizal fungi do for trees?",
+    "opts": [
+      "Produce edible fruits that animals eat",
+      "Decompose dead wood around the tree",
+      "Fix atmospheric nitrogen for the tree",
+      "Connect roots and help absorb nutrients and water"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 228,
+    "q": "Why do seeds like dandelions have fluffy parachutes?",
+    "opts": [
+      "To protect seeds from fire",
+      "To catch the wind and travel long distances",
+      "To stick to animal fur",
+      "To float across water"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 229,
+    "q": "Which tree species is known for being the tallest living trees on Earth?",
+    "opts": [
+      "Baobab",
+      "Coast redwood",
+      "Douglas fir",
+      "Giant sequoia"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 230,
+    "q": "What adaptation allows many cacti to survive hot, dry deserts?",
+    "opts": [
+      "Extremely thick bark that seals in water",
+      "Very deep taproots",
+      "Large, broad leaves for shade",
+      "CAM photosynthesis that stores CO2 at night"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 231,
+    "q": "Why do many flowers have bright colors and sweet scents?",
+    "opts": [
+      "To cool the plant on hot days",
+      "To store extra water in the petals",
+      "To repel all insects",
+      "To attract pollinators like bees and birds"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 232,
+    "q": "What is a mycelium?",
+    "opts": [
+      "The root system of a tree",
+      "Dead leaves on the forest floor",
+      "The seedling stage of a plant",
+      "A fungal network of threadlike filaments"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 233,
+    "q": "How do mistletoe plants get much of their water and nutrients?",
+    "opts": [
+      "They live entirely independently like other trees",
+      "They grow only on rocks and absorb minerals",
+      "They immediately kill and replace their host",
+      "They attach to a host and siphon water/nutrients while still photosynthesizing"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 234,
+    "q": "Why do some trees drop their leaves seasonally?",
+    "opts": [
+      "To increase photosynthesis in winter",
+      "To confuse plant-eating animals",
+      "To attract pollinators",
+      "To reduce water loss during cold or dry seasons"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 235,
+    "q": "What are epiphytes?",
+    "opts": [
+      "Seed-eating insects",
+      "Plants that grow on other plants without rooting in the soil",
+      "Parasitic plants that kill their hosts",
+      "Ground-dwelling fungi"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 236,
+    "q": "How do ants help disperse some plant seeds?",
+    "opts": [
+      "They plant seeds on trees to grow new forests",
+      "They eat the whole seed and spread the shells",
+      "They carry seeds to nests after eating a fatty elaiosome attached to the seed",
+      "They bury seeds to keep them warm all winter"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 237,
+    "q": "Which feature best distinguishes fungi from plants?",
+    "opts": [
+      "They absorb nutrients from their surroundings instead of photosynthesizing",
+      "They make their own food by photosynthesis",
+      "They produce seeds to reproduce",
+      "They have cell walls of cellulose like plants"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 238,
+    "q": "What is 'serotiny' in some pine species?",
+    "opts": [
+      "Cones that are eaten by animals to release seeds",
+      "Cones that open underwater",
+      "Cones that open every time it rains",
+      "Cones that open only after exposure to heat or fire"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 239,
+    "q": "Why do some flowers open only at night?",
+    "opts": [
+      "To avoid daytime wind",
+      "Because daytime temperatures make them toxic",
+      "To attract nocturnal pollinators like moths and bats",
+      "To conserve sunlight"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 240,
+    "q": "What advantage do compound leaves with many leaflets provide?",
+    "opts": [
+      "Attract more pollinators to the plant",
+      "Store extra sugars in each leaflet",
+      "Capture more sunlight in dense shade",
+      "Reduce wind damage by letting air pass between leaflets"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 241,
+    "q": "How do seeds remain viable in a soil 'seed bank' for years?",
+    "opts": [
+      "They continuously absorb water and slowly grow underground",
+      "They stay dormant until cues like light, temperature, or fire trigger germination",
+      "Constant warm temperatures keep them ready to sprout",
+      "They must be eaten by animals first"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 242,
+    "q": "What causes a fairy ring of mushrooms in a meadow?",
+    "opts": [
+      "Gardeners deliberately planting circles",
+      "Outward growth of a fungal mycelium producing mushrooms at the edge",
+      "Burrowing animals arranging mushrooms in a ring",
+      "Underground tree roots creating ring patterns"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 243,
+    "q": "Why do many plants have thorns or spines?",
+    "opts": [
+      "To help the plant climb nearby supports",
+      "To attract pollinators with sharp shapes",
+      "To store extra water for dry seasons",
+      "To deter animals from eating them"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 244,
+    "q": "How do pollinating bees often locate hidden nectar inside flowers?",
+    "opts": [
+      "By randomly sampling every flower",
+      "By following color patterns including ultraviolet 'nectar guides' invisible to humans",
+      "By tracking only floral scent and never color",
+      "By listening for the hum of nectar"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 245,
+    "q": "What is an advantage of evergreen leaves in cold or nutrient-poor climates?",
+    "opts": [
+      "They capture more light only during summer months",
+      "They help spread seeds farther than deciduous trees",
+      "They avoid the cost of growing a whole new leaf set each season, conserving nutrients",
+      "They block all understory plants from growing"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 246,
+    "q": "Which tree is famous for storing large amounts of water in its trunk to survive dry seasons?",
+    "opts": [
+      "Pine",
+      "Oak",
+      "Birch",
+      "Baobab"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 247,
+    "q": "Why do many tropical trees develop large buttress roots?",
+    "opts": [
+      "To attract animals that disperse their seeds",
+      "To store excess sugars for the dry season",
+      "To reach deep underground rivers",
+      "To support very tall trees in shallow, nutrient-poor soils"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 248,
+    "q": "What is allelopathy in plants?",
+    "opts": [
+      "Photosynthesis done under very low light",
+      "A mutual exchange of pollen between two species",
+      "An ancient fungal infection of roots",
+      "A plant releasing chemicals that inhibit the growth of nearby plants"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 249,
+    "q": "How do wind-pollinated plants like grasses typically differ from insect-pollinated flowers?",
+    "opts": [
+      "They rely on animals to carry heavy pollen grains",
+      "They only bloom at night",
+      "They produce abundant, lightweight pollen and often have small, inconspicuous flowers",
+      "They have large colorful petals that attract birds"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 250,
+    "q": "What essential role do fungi play in forest nutrient cycles?",
+    "opts": [
+      "They store water for trees during droughts",
+      "They fix atmospheric nitrogen like legume bacteria",
+      "They break down dead plant material and release nutrients back into the soil",
+      "They prevent seeds from germinating"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 251,
+    "q": "What makes some volcanic eruptions explosively violent instead of smooth lava flows?",
+    "opts": [
+      "Cold magma near the surface",
+      "Deeper magma chambers",
+      "High gas content and silica-rich (viscous) magma",
+      "Wind shear at high altitude"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 252,
+    "q": "What do geologists call the point on Earth's surface directly above where an earthquake starts?",
+    "opts": [
+      "Epicenter",
+      "Fault line",
+      "Hypocenter",
+      "Aftershock zone"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 253,
+    "q": "Why are cirrus clouds thin and wispy high in the sky?",
+    "opts": [
+      "They are caused by pollution",
+      "Strong ground winds stretch them",
+      "They are made of tiny ice crystals",
+      "They form from heavy raindrops"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 254,
+    "q": "What causes the sound of thunder?",
+    "opts": [
+      "Clouds colliding",
+      "Lightning heating air so fast it rapidly expands",
+      "Rain hitting the ground",
+      "Echoes of wind"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 255,
+    "q": "Why do many rivers keep flowing for days or weeks after a dry spell?",
+    "opts": [
+      "Evaporation slows down",
+      "Groundwater seeping into the river as baseflow",
+      "Regular rainfall underground",
+      "Ice melting at the source"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 256,
+    "q": "How do sedimentary rocks like sandstone form?",
+    "opts": [
+      "From cooled magma",
+      "From layers of volcanic ash only",
+      "By high heat and pressure transforming other rocks",
+      "From compacted and cemented sediments"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 257,
+    "q": "Where do most of Earth's volcanoes form?",
+    "opts": [
+      "In polar regions",
+      "Only at hotspots like Hawaii",
+      "At the centers of continents",
+      "At tectonic plate boundaries"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 258,
+    "q": "Which seismic wave travels fastest and can move through both solids and liquids?",
+    "opts": [
+      "S-waves (shear)",
+      "P-waves (compressional)",
+      "Shadow waves",
+      "Surface waves"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 259,
+    "q": "Why do hurricanes usually weaken quickly after moving over land?",
+    "opts": [
+      "They are cut off from warm ocean heat and moisture",
+      "Cold continental air destroys clouds",
+      "Earth's rotation halts them",
+      "Friction from trees stops the rotation"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 260,
+    "q": "What does 'evapotranspiration' mean in the water cycle?",
+    "opts": [
+      "Evaporation only",
+      "Combined evaporation from surfaces and plant transpiration",
+      "Water freezing then melting",
+      "Trees blocking rainfall"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 261,
+    "q": "What's the difference between magma and lava?",
+    "opts": [
+      "Lava forms only on the Moon",
+      "Magma is liquid, lava is solid",
+      "Magma is beneath the surface; lava is magma that reaches the surface",
+      "They are the same term in different languages"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 262,
+    "q": "What is soil liquefaction during an earthquake?",
+    "opts": [
+      "Sand turning into glass by pressure",
+      "Soil turning into lava",
+      "Rocks dissolving into the groundwater",
+      "Wet, loose soil behaving like a liquid when shaken"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 263,
+    "q": "How does a rainbow form after rain?",
+    "opts": [
+      "Sunlight reflecting off pavement",
+      "Moonlight mixing with city lights",
+      "Light bending and splitting inside raindrops",
+      "Clouds emitting colored light"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 264,
+    "q": "Which volcano shape is broad with gentle slopes, like the Hawaiian islands?",
+    "opts": [
+      "Shield volcano",
+      "Stratovolcano",
+      "Caldera",
+      "Cinder cone"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 265,
+    "q": "Why does evaporation cool surfaces like your skin when you sweat?",
+    "opts": [
+      "Sweat reflects sunlight",
+      "The water freezes instantly cooling you",
+      "Evaporation adds heat to the air",
+      "High-energy molecules leave as vapor, lowering temperature"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 266,
+    "q": "Why are fossils mostly found in sedimentary rocks rather than igneous or metamorphic rocks?",
+    "opts": [
+      "Sedimentary rocks form in layers that bury and preserve remains",
+      "Metamorphic rocks always contain fossils",
+      "Fossils need volcanic heat to form",
+      "Igneous rocks are too old to have fossils"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 267,
+    "q": "What creates lens-shaped lenticular clouds that can hover over mountains?",
+    "opts": [
+      "Forest fires producing smoke rings",
+      "Localized heavy rain",
+      "Rocket exhaust",
+      "Standing waves in airflow over a mountain"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 268,
+    "q": "Can scientists predict the exact day and time of most earthquakes?",
+    "opts": [
+      "Yes, with accurate sensors",
+      "Yes, but only for small quakes",
+      "No, they can only estimate probabilities and hotspots",
+      "No, earthquakes are completely random and without patterns"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 269,
+    "q": "Between hurricanes and tornadoes, which typically packs the strongest winds in the smallest area?",
+    "opts": [
+      "Thunderstorm",
+      "Hurricane",
+      "Tornado",
+      "Blizzard"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 270,
+    "q": "What refills groundwater aquifers after heavy rain?",
+    "opts": [
+      "Evaporation from lakes",
+      "Snowmelt only",
+      "Infiltration of rainwater through soil and rock",
+      "Surface runoff that goes straight to the ocean"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 271,
+    "q": "Which volcanic rock is dark, fine-grained, and makes up most of the ocean floor?",
+    "opts": [
+      "Rhyolite",
+      "Granite",
+      "Sandstone",
+      "Basalt"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 272,
+    "q": "What do high, wispy cirrus clouds often signal about upcoming weather?",
+    "opts": [
+      "Clear skies for the next week",
+      "Immediate heavy snow in an hour",
+      "A change in the weather may be approaching within a day or two",
+      "A nearby tornado has formed"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 273,
+    "q": "How do geologists measure a mineral's scratch resistance?",
+    "opts": [
+      "Mohs hardness scale",
+      "Magnetism test",
+      "pH scale",
+      "Density scale"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 274,
+    "q": "What is the main cause of the deadly coastal flooding known as a storm surge during hurricanes?",
+    "opts": [
+      "Underwater earthquakes lifting the seafloor",
+      "Heavy rainfall alone",
+      "Strong onshore winds pushing seawater toward the coast and low pressure raising sea level",
+      "Sea level tides always peaking"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 275,
+    "q": "Where do the world's most powerful 'megathrust' earthquakes usually occur?",
+    "opts": [
+      "Stable continental interiors",
+      "Mid-ocean ridges where new crust forms",
+      "Transform fault boundaries like the San Andreas",
+      "Subduction zones where one plate dives under another"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 276,
+    "q": "Why do onions make your eyes water when you cut them?",
+    "opts": [
+      "Cutting them produces acid that burns your lashes",
+      "Cutting releases tiny sharp crystals that scratch the eye",
+      "They contain tear-producing enzymes",
+      "They release a gas that irritates your eyes"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 277,
+    "q": "Why does bread turn brown and taste different when toasted?",
+    "opts": [
+      "A chemical Maillard reaction between sugars and amino acids",
+      "Oxygen burning the bread surface",
+      "Sugar turning into pure caramel only",
+      "Yeast reactivating to change the color"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 278,
+    "q": "Why do we get goosebumps when cold or scared?",
+    "opts": [
+      "Extra blood rushes to the skin surface",
+      "Skin cells swell to trap heat",
+      "Sweat pores close to reduce heat loss",
+      "Tiny muscles around hair follicles contract, making hairs stand up"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 279,
+    "q": "Why is the daytime sky blue?",
+    "opts": [
+      "The oceans paint the atmosphere blue",
+      "Air scatters shorter (blue) wavelengths more than longer ones",
+      "Oxygen in air produces blue light",
+      "Clouds filter out other colors leaving blue"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 280,
+    "q": "Why do some people say cilantro tastes like soap?",
+    "opts": [
+      "Cilantro is often contaminated with soap residues",
+      "Everyone senses it as soap but masks it",
+      "Cilantro contains real soap-like fats",
+      "Some people have genes that sense cilantro’s aldehyde molecules as soapy"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 281,
+    "q": "Why do soap bubbles show rainbow colors?",
+    "opts": [
+      "Thin-film interference creates different colors where the film is different thicknesses",
+      "Soap molecules emit colored light",
+      "The bubble surface is painted by dissolved pigments",
+      "Light warms parts of the bubble and changes its color"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 282,
+    "q": "Why do your fingertips wrinkle (prune) after being in water?",
+    "opts": [
+      "The outer skin layer dissolves and shrinks",
+      "Skin soaks up water and swells unevenly",
+      "Tiny hairs curl under your skin",
+      "Your nervous system triggers vessel changes that wrinkle skin to improve grip"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 283,
+    "q": "Why does metal feel colder than wood even when both are the same temperature?",
+    "opts": [
+      "Metal actually has a lower temperature because it's heavier",
+      "Metals conduct heat away from your skin faster, so they feel colder",
+      "Metals have a colder surface charge",
+      "Your skin reacts to metal like a slight electric shock"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 284,
+    "q": "Why does an apple turn brown soon after you slice it?",
+    "opts": [
+      "An enzyme turns the fruit’s chemicals into brown pigments when exposed to air",
+      "Bacteria instantly color the surface brown",
+      "Apples release tiny burning embers when cut",
+      "The cut surface gets sunburned"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 285,
+    "q": "What causes a hiccup?",
+    "opts": [
+      "Your lungs overinflate from swallowing air",
+      "Your stomach sends a signal to the throat to close",
+      "Tiny particles tickle your taste buds and trigger a reflex",
+      "A sudden involuntary spasm of the diaphragm makes your vocal cords snap shut, producing the 'hic' sound"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 286,
+    "q": "Why can't you generally tickle yourself?",
+    "opts": [
+      "Ticklishness is only a social reflex that needs another person",
+      "Your brain predicts and dampens sensations from your own movements, so they're less surprising",
+      "You lack the nerve endings to feel self-touch",
+      "Your skin is numb to your own hands"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 287,
+    "q": "Why does a microwave oven sometimes heat food unevenly?",
+    "opts": [
+      "Microwave ovens use uneven electricity",
+      "Microwaves only heat the surface of food",
+      "Standing waves create hot and cold spots; a turntable spreads the hotspots",
+      "Food pieces block microwaves completely"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 288,
+    "q": "Why do your ears 'pop' when you change altitude?",
+    "opts": [
+      "Your eardrum expands to let more air in",
+      "Tiny ear bones change length to adjust pressure",
+      "Fluids in the ear compress to relieve pressure",
+      "Pressure difference between your middle ear and outside is equalized through the eustachian tube"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 289,
+    "q": "Why does a wine glass produce a musical ringing tone when you rub its rim?",
+    "opts": [
+      "The wine boils slightly and produces sound",
+      "Finger oils act like drumsticks creating a beat",
+      "Rubbing the rim makes the glass vibrate at its natural frequency, producing a tone",
+      "The glass changes color and that creates sound"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 290,
+    "q": "Why do fried foods feel crispy instead of soft?",
+    "opts": [
+      "Frying only infuses food with air bubbles",
+      "Frying freezes the outer layer instantly",
+      "Rapid water loss and chemical browning create a rigid, porous crust that snaps when bitten",
+      "A coating of oil forms a flexible shell"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 291,
+    "q": "Why do batteries often feel warm while charging?",
+    "opts": [
+      "Electrical resistance inside converts some charging energy into heat",
+      "Charging releases chemical smoke that feels warm",
+      "The charger transmits hot particles into the battery",
+      "The battery generates warmth to stay active"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 292,
+    "q": "Why do plants look green to our eyes?",
+    "opts": [
+      "Green light is the only light that reaches plants",
+      "Soil pigments seep into leaves making them green",
+      "Leaves are painted green by plant cells",
+      "Chlorophyll absorbs mostly red and blue light and reflects green"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 293,
+    "q": "Why does ice float on liquid water?",
+    "opts": [
+      "Ice is trapped air that makes it buoyant",
+      "Ice contains tiny bubbles of helium",
+      "Water expands when it freezes so ice is less dense than liquid water",
+      "Gravity pushes ice upward in water"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 294,
+    "q": "How does a rainbow form after a rain shower?",
+    "opts": [
+      "Rainbows are painted by clouds",
+      "Rainbows are reflections from puddles",
+      "Sunlight is refracted and dispersed by raindrops, splitting it into colors",
+      "Clouds emit colored light when they get wet"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 295,
+    "q": "Why does bread dough rise when you leave it to proof?",
+    "opts": [
+      "Yeast ferments sugars and produces CO2 gas that gets trapped in the dough",
+      "Baking powder inside releases hot gas",
+      "The dough soaks up oxygen and puffs",
+      "Air trapped during mixing simply expands with heat"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 296,
+    "q": "Why does the pitch of a siren sound higher as it approaches you?",
+    "opts": [
+      "Sound waves are compressed when the source moves toward you, raising the frequency you hear",
+      "Air changes temperature when objects move, shifting the pitch",
+      "Your ears speed up when something approaches",
+      "Sound becomes louder and so seems higher"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 297,
+    "q": "Why do cooked onions taste sweeter and less sharp than raw ones?",
+    "opts": [
+      "Onions breed sweet bacteria when heated",
+      "Heat breaks down sharp sulfur molecules into sweeter-smelling compounds and browns sugars",
+      "Onions lose all flavor when cooked",
+      "Cooking adds salt to onions chemically"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 298,
+    "q": "Why does your vision slowly improve after you step from bright light into darkness?",
+    "opts": [
+      "Your pupils are the only change as they dilate to capture more light",
+      "The eye floods with color pigments to improve sight",
+      "Photoreceptor pigments (especially in rods) must regenerate, so low-light vision gradually improves",
+      "The cornea changes shape to focus faint light"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 299,
+    "q": "Why doesn't aluminum rust like ordinary iron does?",
+    "opts": [
+      "Aluminum doesn’t react with oxygen at all",
+      "Aluminum quickly forms a thin oxide layer that sticks and protects the metal from further corrosion",
+      "Aluminum is naturally shiny and repels corrosion",
+      "Aluminum constantly sheds its outer layer, preventing rust"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 300,
+    "q": "Why do reds often look much darker than blues at night?",
+    "opts": [
+      "Dark air filters out red light first",
+      "Moonlight paints everything blue making some colors invisible",
+      "Your brain turns off color vision entirely so only blue remains",
+      "At night, rod cells are most sensitive to blue‑green light so reds appear much darker"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 301,
+    "q": "Which layer of Earth do we live on?",
+    "opts": [
+      "Outer core",
+      "Inner core",
+      "Crust",
+      "Mantle"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 302,
+    "q": "What mainly causes Earth's seasons?",
+    "opts": [
+      "The Moon's orbit",
+      "How far Earth is from the Sun",
+      "Changes in Earth's orbit speed",
+      "The tilt of Earth's axis"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 303,
+    "q": "Why does the sky look blue on a clear day?",
+    "opts": [
+      "The ocean reflects its color into the sky",
+      "Ozone absorbs red light",
+      "Sunlight is reflected by clouds",
+      "Air molecules scatter blue light more than red (Rayleigh scattering)"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 304,
+    "q": "Which ocean trench contains the deepest known point on Earth?",
+    "opts": [
+      "Java Trench",
+      "Tonga Trench",
+      "Puerto Rico Trench",
+      "Mariana Trench"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 305,
+    "q": "Which is the largest hot desert on Earth?",
+    "opts": [
+      "Sahara Desert",
+      "Kalahari Desert",
+      "Arabian Desert",
+      "Gobi Desert"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 306,
+    "q": "Which country contains the largest portion of the Amazon rainforest?",
+    "opts": [
+      "Ecuador",
+      "Colombia",
+      "Peru",
+      "Brazil"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 307,
+    "q": "Which continent has the most countries?",
+    "opts": [
+      "Africa",
+      "North America",
+      "Europe",
+      "Asia"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 308,
+    "q": "Why are living coral reefs so colorful?",
+    "opts": [
+      "Fish scales shining in sunlight",
+      "Mineral deposits in reef rock",
+      "The coral skeletons are colorful",
+      "Tiny symbiotic algae living in coral produce pigments"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 309,
+    "q": "Which river carved much of the Grand Canyon?",
+    "opts": [
+      "Colorado River",
+      "Columbia River",
+      "Mississippi River",
+      "Rio Grande"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 310,
+    "q": "What is the primary cause of ocean tides?",
+    "opts": [
+      "Wind blowing across the sea",
+      "Differences in ocean salinity",
+      "Earth's rotation alone",
+      "Gravitational pull of the Moon and the Sun"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 311,
+    "q": "Which continent is almost entirely covered by a vast ice sheet and is the coldest on Earth?",
+    "opts": [
+      "Antarctica",
+      "Greenland",
+      "Europe",
+      "Australia"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 312,
+    "q": "Why are cities often several degrees warmer than nearby countryside (the urban heat island effect)?",
+    "opts": [
+      "Air is thinner in cities",
+      "Buildings, roads and vehicles absorb and release heat",
+      "Cities are at higher elevation",
+      "Cities have more trees"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 313,
+    "q": "Which mountain range contains the highest peaks in the world?",
+    "opts": [
+      "Himalayas",
+      "Andes",
+      "Alps",
+      "Rockies"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 314,
+    "q": "Why do some volcanic islands, like Hawaii, form in the middle of a tectonic plate?",
+    "opts": [
+      "Erosion of a larger landmass",
+      "River sediment buildup",
+      "A hot spot in the mantle creates magma plumes",
+      "Tidal forces"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 315,
+    "q": "Which country spans the most time zones when you include overseas territories?",
+    "opts": [
+      "Russia",
+      "United States",
+      "China",
+      "France"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 316,
+    "q": "What line divides Earth into Northern and Southern Hemispheres?",
+    "opts": [
+      "Tropic of Cancer",
+      "Equator",
+      "Prime Meridian",
+      "Arctic Circle"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 317,
+    "q": "What is permafrost?",
+    "opts": [
+      "A seasonal river",
+      "Soil or rock that stays frozen year-round",
+      "A slowly moving glacier",
+      "A type of evergreen forest"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 318,
+    "q": "Which ocean covers the largest surface area on Earth?",
+    "opts": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 319,
+    "q": "Why do many leaves change color in autumn?",
+    "opts": [
+      "Colder nights create new pigments",
+      "Shorter daylight causes chlorophyll to break down, revealing other pigments",
+      "Soil nutrients change",
+      "Trees age and lose color"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 320,
+    "q": "How were the stepped agricultural terraces at places like Machu Picchu created?",
+    "opts": [
+      "Volcanic layering of lava flows",
+      "Coral reef uplift",
+      "Natural rock formations",
+      "Human-built farming terraces cut into slopes"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 321,
+    "q": "Which country has the longest coastline and is famous for its many lakes?",
+    "opts": [
+      "Australia",
+      "Canada",
+      "Indonesia",
+      "Russia"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 322,
+    "q": "What is the primary cause of most earthquakes?",
+    "opts": [
+      "Only volcanic eruptions",
+      "Severe thunderstorms",
+      "Sudden movement along faults as tectonic plates shift",
+      "Tidal forces from the Moon"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 323,
+    "q": "Why is the Dead Sea much saltier than typical seas?",
+    "opts": [
+      "Volcanic ash makes it salty",
+      "It is constantly connected to the ocean",
+      "High evaporation and no outlet cause salts to concentrate",
+      "Rivers deposit extra salt into it"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 324,
+    "q": "How do stalactites and stalagmites grow inside caves?",
+    "opts": [
+      "They form from repeated earthquakes",
+      "Wind carves the formations",
+      "Bats pack mud into shapes",
+      "Mineral-rich water drips and leaves mineral deposits over time"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 325,
+    "q": "Why does sound generally travel faster in water than in air?",
+    "opts": [
+      "Sound cannot travel in water",
+      "Molecules in water are closer together and transmit vibrations more efficiently",
+      "Water is usually colder than air",
+      "Water contains more oxygen to carry sound"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 326,
+    "q": "Which invention by Johannes Gutenberg transformed how books were mass-produced in Europe?",
+    "opts": [
+      "The European movable-type printing press",
+      "The printing steam press",
+      "The digital typesetter",
+      "The rotary printing press"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 327,
+    "q": "Who flew the first controlled, powered airplane in 1903?",
+    "opts": [
+      "Alberto Santos-Dumont",
+      "Wright brothers (Orville and Wilbur)",
+      "Samuel Langley",
+      "Charles Lindbergh"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 328,
+    "q": "Which accidental discovery by Alexander Fleming in 1928 changed the treatment of bacterial infections?",
+    "opts": [
+      "Antiseptic surgical techniques",
+      "The structure of DNA",
+      "Penicillin from mold contamination",
+      "The first vaccine for influenza"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 329,
+    "q": "What did Thomas Edison invent in 1877 that let people record and play back sound?",
+    "opts": [
+      "The compact disc",
+      "The phonograph",
+      "The magnetic tape recorder",
+      "The gramophone"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 330,
+    "q": "Who discovered X-rays, opening a new way to see inside the body?",
+    "opts": [
+      "Maxwell Planck",
+      "Marie Curie",
+      "Antoine Becquerel",
+      "Wilhelm Röntgen"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 331,
+    "q": "What was Sputnik 1 famous for when launched in 1957?",
+    "opts": [
+      "First artificial satellite in orbit",
+      "First probe to another planet",
+      "First manned spacecraft",
+      "First reusable spacecraft"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 332,
+    "q": "Who became the first person to walk on the Moon in 1969?",
+    "opts": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Michael Collins",
+      "Yuri Gagarin"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 333,
+    "q": "Which innovation is Edward Jenner credited with developing that began modern vaccination?",
+    "opts": [
+      "Smallpox vaccine using cowpox material",
+      "Polio vaccine",
+      "Influenza vaccine",
+      "Rabies antiserum"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 334,
+    "q": "Where was the magnetic compass first adapted for reliable navigation at sea?",
+    "opts": [
+      "China",
+      "Arab world",
+      "Portugal",
+      "Scandinavia"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 335,
+    "q": "Which manufacturing change did Henry Ford popularize that drastically cut car-building time?",
+    "opts": [
+      "Just-in-time inventory",
+      "Moving assembly line for mass production",
+      "3D printing",
+      "Automated robotic assembly"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 336,
+    "q": "What was the name of the early network in the late 1960s that became the technical ancestor of the internet?",
+    "opts": [
+      "Usenet",
+      "ARPANET",
+      "BITNET",
+      "World Wide Web"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 337,
+    "q": "Who is widely credited with inventing the telephone?",
+    "opts": [
+      "Samuel Morse",
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Alexander Graham Bell"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 338,
+    "q": "Which scientist developed the first widely used polio vaccine in the 1950s?",
+    "opts": [
+      "Robert Koch",
+      "Albert Sabin",
+      "Jonas Salk",
+      "Louis Pasteur"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 339,
+    "q": "What earlier East Asian technique let people print books before Gutenberg’s press arrived in Europe?",
+    "opts": [
+      "Movable metal type in Korea",
+      "Woodblock printing",
+      "Laser engraving",
+      "Lithography"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 340,
+    "q": "Who reintroduced the idea that the Earth orbits the Sun in a way that reshaped astronomy?",
+    "opts": [
+      "Ptolemy",
+      "Galileo Galilei",
+      "Nicolaus Copernicus",
+      "Isaac Newton"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 341,
+    "q": "Who invented the World Wide Web, making the modern web of linked pages possible?",
+    "opts": [
+      "Marc Andreessen",
+      "Bill Gates",
+      "Tim Berners-Lee",
+      "Vint Cerf"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 342,
+    "q": "Which duo are credited with proposing the double-helix structure of DNA in 1953?",
+    "opts": [
+      "Mendel and Darwin",
+      "Hershey and Chase",
+      "Watson and Crick",
+      "Berg and Salk"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 343,
+    "q": "Which inventor is most often associated with developing practical radio communication?",
+    "opts": [
+      "Guglielmo Marconi",
+      "Samuel Morse",
+      "Alexander Graham Bell",
+      "Heinrich Hertz"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 344,
+    "q": "Who used powerful simple microscopes to be the first to describe bacteria and tiny living things he called “animalcules”?",
+    "opts": [
+      "Antonie van Leeuwenhoek",
+      "Robert Hooke",
+      "Louis Pasteur",
+      "Joseph Lister"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 345,
+    "q": "What safety invention by Elisha Otis made tall, habitable buildings (skyscrapers) practical?",
+    "opts": [
+      "Automatic electric doors",
+      "Fireproof steel frames",
+      "The safety parachute",
+      "The safety elevator brake"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 346,
+    "q": "Which inventor created the alternating-current induction motor, central to modern electric power systems?",
+    "opts": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "George Westinghouse",
+      "Michael Faraday"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 347,
+    "q": "Who produced what is considered the world’s first permanent photograph in the 1820s?",
+    "opts": [
+      "Joseph Nicéphore Niépce",
+      "George Eastman",
+      "Hippolyte Bayard",
+      "Louis Daguerre"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 348,
+    "q": "Which discovery in 1921 transformed type 1 diabetes from a fatal disease into a treatable condition?",
+    "opts": [
+      "Discovery of insulin",
+      "Discovery of sulfa drugs",
+      "Discovery of antibiotics",
+      "Discovery of vitamin D"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 349,
+    "q": "What 1947 invention at Bell Labs launched the electronics age by controlling electric current in solid materials?",
+    "opts": [
+      "The transistor",
+      "The vacuum tube",
+      "The integrated circuit",
+      "The silicon solar cell"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 350,
+    "q": "Which improvement by James Watt made steam engines efficient enough to power factories during the Industrial Revolution?",
+    "opts": [
+      "The piston rod",
+      "The fuel injector",
+      "The high-pressure boiler",
+      "The separate condenser and improved efficiency"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 351,
+    "q": "Where is the engine placed in many supercars to improve balance and handling?",
+    "opts": [
+      "Underfloor engine",
+      "Rear-engine",
+      "Front-engine",
+      "Mid-engine"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 352,
+    "q": "Which material gives modern supercars ultra-light, super-strong bodies?",
+    "opts": [
+      "Steel alloy",
+      "Carbon fiber",
+      "Aluminum",
+      "Fiberglass"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 353,
+    "q": "Which device uses exhaust gas to spin a turbine and force more air into an engine?",
+    "opts": [
+      "Supercharger",
+      "Carburetor",
+      "Intercooler",
+      "Turbocharger"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 354,
+    "q": "What does 'hybrid' usually mean in modern cars?",
+    "opts": [
+      "Switches between diesel and petrol",
+      "Uses two gasoline engines",
+      "Uses both gasoline and hydrogen",
+      "Combines internal combustion engine and electric motor"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 355,
+    "q": "Which thermodynamic cycle describes most gasoline car engines?",
+    "opts": [
+      "Brayton cycle",
+      "Diesel cycle",
+      "Rankine cycle",
+      "Otto cycle"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 356,
+    "q": "What's the main advantage of an ABS brake system?",
+    "opts": [
+      "Save fuel",
+      "Prevent wheel lockup under braking to maintain steering control",
+      "Faster top speed",
+      "Increase engine power"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 357,
+    "q": "What does a car's '0–60 mph' time measure?",
+    "opts": [
+      "Time to go 0 to 60 km/h",
+      "Time to travel 60 miles",
+      "Time to do 0 to 60 in reverse",
+      "Time to reach 60 mph from a standstill"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 358,
+    "q": "What major effect did containerization have on global shipping?",
+    "opts": [
+      "Eliminated need for ports",
+      "Made ships smaller",
+      "Dramatically sped up loading/unloading and cut costs",
+      "Increased manual cargo handling"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 359,
+    "q": "Why do bikes with derailleur gears move the chain between sprockets?",
+    "opts": [
+      "Fold the bike",
+      "Inflate the tube",
+      "Change mechanical advantage to make pedaling easier or harder",
+      "Change tire pressure"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 360,
+    "q": "Which bike design from the 1880s replaced the risky high-wheeler and became the template for modern bicycles?",
+    "opts": [
+      "Safety bicycle",
+      "Penny-farthing",
+      "Tandem",
+      "Velocipede"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 361,
+    "q": "What type of train floats above the track using magnets to avoid wheel-rail contact?",
+    "opts": [
+      "Maglev",
+      "Tram",
+      "Monorail",
+      "Diesel locomotive"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 362,
+    "q": "What power source do most modern high-speed trains use?",
+    "opts": [
+      "Electric overhead lines",
+      "Battery-only",
+      "Steam",
+      "Diesel mechanical"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 363,
+    "q": "Why are train wheels slightly conical instead of perfectly cylindrical?",
+    "opts": [
+      "Look more modern",
+      "Reduce wear on rails",
+      "For decorative reasons",
+      "Help the wheelset steer through curves by changing effective diameters"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 364,
+    "q": "How does a diesel-electric locomotive actually drive its wheels?",
+    "opts": [
+      "Diesel engine drives the wheels through direct mechanical linkage",
+      "Diesel engine powers a generator that supplies electric motors driving the wheels",
+      "Diesel fuel is burned in the wheels",
+      "Diesel engines are used only for braking"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 365,
+    "q": "What's the purpose of the bulbous bow on many large ships?",
+    "opts": [
+      "Calm the sea around the ship",
+      "Provide extra crew quarters",
+      "Reduce wave resistance and improve fuel efficiency",
+      "Increase cargo capacity"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 366,
+    "q": "What does 'horsepower per ton' tell you about a performance car?",
+    "opts": [
+      "Fuel efficiency",
+      "Power relative to vehicle weight",
+      "How much cargo it can carry",
+      "Tire grip"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 367,
+    "q": "Why do many electric bikes use 'pedal-assist' instead of throttle-only operation?",
+    "opts": [
+      "To make them heavier",
+      "To reduce tire wear",
+      "To prevent pedaling entirely",
+      "To keep the rider contributing power, improving safety and extending battery range"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 368,
+    "q": "Which drivetrain layout is most common in everyday family cars worldwide?",
+    "opts": [
+      "Rear-wheel drive",
+      "Four-wheel drive",
+      "Mid-engine layout",
+      "Front-wheel drive"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 369,
+    "q": "What did Ford's moving assembly line change about car production?",
+    "opts": [
+      "It invented the internal combustion engine",
+      "It replaced cars with horses",
+      "It allowed mass production and dramatically cut car costs and build times",
+      "It banned manual labor"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 370,
+    "q": "Why do race cars use wings and diffusers?",
+    "opts": [
+      "To look cool",
+      "To improve fuel economy in city traffic",
+      "To create downforce that presses the car onto the track improving grip",
+      "To increase top speed only"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 371,
+    "q": "What's the key difference between a hypercar and an ordinary sports car?",
+    "opts": [
+      "Cheaper price",
+      "Only electric motors",
+      "Uses only classic styling",
+      "Extreme performance and advanced technology"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 372,
+    "q": "Which system turns the engine off at a stop and restarts it automatically to save fuel?",
+    "opts": [
+      "Start-stop system",
+      "Cruise control",
+      "Turbo lag",
+      "ESP"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 373,
+    "q": "What's the job of an intercooler in a turbocharged engine?",
+    "opts": [
+      "Cool the compressed intake air to increase density and reduce engine knock",
+      "Heat the intake air",
+      "Clean the air",
+      "Increase exhaust temperature"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 374,
+    "q": "Why did steamships overtake sailing ships on many trade routes?",
+    "opts": [
+      "Steamships were independent of wind and could keep schedules",
+      "Coal was lighter than wind",
+      "They were cheaper to build",
+      "They required no crew"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 375,
+    "q": "What does regenerative braking do in electric and hybrid vehicles?",
+    "opts": [
+      "Locks wheels to hold the car on hills",
+      "Converts kinetic energy back into electrical energy to recharge the battery",
+      "Keeps brakes hot for better performance",
+      "Uses brakes only to stop faster"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 376,
+    "q": "Why are most airplane wings curved on top?",
+    "opts": [
+      "To make the plane look aerodynamic to passengers",
+      "To trap air above the wing for cabin pressurization",
+      "To reduce noise from the engines",
+      "To create lower pressure above the wing and help produce lift"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 377,
+    "q": "Why do pilots tilt or “bank” an airplane when turning?",
+    "opts": [
+      "To make the cabin level for passengers",
+      "To tilt the lift vector so part of lift pulls the plane sideways into a turn",
+      "To slow one wing and speed the other with brakes",
+      "To change the thrust direction from the engines"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 378,
+    "q": "What does it mean when a wing ‘stalls’?",
+    "opts": [
+      "The plane’s controls are frozen",
+      "The landing gear cannot extend",
+      "The engine has lost power",
+      "The wing’s airflow separates at too high an angle and lift drops"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 379,
+    "q": "What information does an aircraft’s “black box” contain?",
+    "opts": [
+      "Passenger manifests and baggage lists",
+      "Live flight tracking for air traffic control",
+      "A record of flight data and cockpit voice recordings",
+      "Only the final minute of flight audio"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 380,
+    "q": "Why do many migrating birds fly in a V formation?",
+    "opts": [
+      "To sing to each other more easily",
+      "To confuse predators by looking like one big bird",
+      "Because the leader needs extra wind to fly faster",
+      "Each bird uses the upwash from the bird ahead to save energy"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 381,
+    "q": "Why do jet airliners usually cruise at very high altitudes?",
+    "opts": [
+      "To be farther from the Sun’s radiation",
+      "To stay above cloud cover for passenger comfort",
+      "To avoid bird strikes entirely",
+      "Because thinner air reduces drag and improves fuel efficiency"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 382,
+    "q": "What creates a sonic boom when a plane goes supersonic?",
+    "opts": [
+      "The engines exploding from excess heat",
+      "Radio signals interfering with air pressure",
+      "A shock wave formed as the aircraft moves faster than sound",
+      "Wings slapping the air like a paddle"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 383,
+    "q": "Why can rocket exhaust sometimes be seen in space even though there’s no air?",
+    "opts": [
+      "The vacuum of space amplifies engine light",
+      "Exhaust solidifies into glowing meteors",
+      "Rockets emit their own visible light by nuclear reactions",
+      "Sunlight illuminates the expanding gases and particles"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 384,
+    "q": "What is escape velocity?",
+    "opts": [
+      "The orbital speed at geostationary altitude",
+      "The speed needed to escape a planet’s gravity without more thrust",
+      "The fastest cruising speed of a passenger jet",
+      "The minimum speed for safe parachute deployment"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 385,
+    "q": "Why does the International Space Station seem to float even though it’s traveling very fast?",
+    "opts": [
+      "Because it and everything inside are in continuous free fall around Earth",
+      "It’s moving too fast for gravity to affect it",
+      "Microgravity stops Earth's pull at its altitude",
+      "It uses invisible engines to cancel gravity"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 386,
+    "q": "Why do spacecraft heat up dramatically during atmospheric re‑entry?",
+    "opts": [
+      "Friction with the air generates all the heat",
+      "Solar radiation suddenly spikes near Earth",
+      "Cold space turns to hot plasma on contact",
+      "Air in front of the vehicle is compressed and kinetic energy converts to heat"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 387,
+    "q": "Why do runways have numbers like “09” or “27” painted at their ends?",
+    "opts": [
+      "They indicate the runway’s year of construction",
+      "They give the runway’s magnetic heading rounded to the nearest 10°",
+      "They show the maximum landing weight allowed",
+      "They mark how many minutes until takeoff on busy days"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 388,
+    "q": "Why are Jupiter and Saturn so much larger than Earth?",
+    "opts": [
+      "They formed closer to the Sun where material was denser",
+      "Their stronger gravity let them capture vast amounts of light gases like hydrogen and helium as they formed",
+      "They are older than Earth and had more time to grow",
+      "Their surfaces are inflated by internal heat"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 389,
+    "q": "Which country has the largest land area on Earth?",
+    "opts": [
+      "Russia",
+      "United States",
+      "Canada",
+      "China"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 390,
+    "q": "Why is Venus hotter than Mercury even though Mercury is closer to the Sun?",
+    "opts": [
+      "Venus has a very thick carbon‑dioxide atmosphere that traps heat",
+      "Mercury reflects more sunlight back to space",
+      "Venus has more volcanoes than Mercury",
+      "Venus is moving closer to the Sun over time"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 391,
+    "q": "Why do some satellites periodically need a small engine burn to raise their altitude?",
+    "opts": [
+      "To realign their antenna with Earth",
+      "To recharge onboard batteries",
+      "Because tiny atmospheric drag and other effects slowly lower their orbit",
+      "To change their solar panels to a better angle"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 392,
+    "q": "Roughly how fast must an object travel to stay in low Earth orbit?",
+    "opts": [
+      "About 7.8 kilometers per second (roughly 28,000 km/h)",
+      "About 150,000 kilometers per hour",
+      "About 160 kilometers per hour",
+      "About 300 meters per second"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 393,
+    "q": "Why can a helicopter hover in place while an airplane generally cannot?",
+    "opts": [
+      "Airplanes cannot point their engines downward",
+      "Helicopters have stronger engines for vertical flight",
+      "Helicopters are lighter than airplanes",
+      "Helicopters use rotating rotors that create lift without needing forward speed"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 394,
+    "q": "Why do pilots train to ‘fly on instruments’?",
+    "opts": [
+      "It’s more stylish in training logs",
+      "Because instruments let them keep correct attitude and altitude when visibility or horizon is lost",
+      "To avoid using GPS signals",
+      "To impress passengers with their cockpit displays"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 395,
+    "q": "What causes the changing phases of the Moon?",
+    "opts": [
+      "The Earth’s shadow covering the Moon periodically",
+      "Sunspots changing the Moon’s brightness",
+      "The Moon turning its light on and off",
+      "Different parts of the Moon being illuminated by the Sun as the Moon orbits Earth"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 396,
+    "q": "Why do modern airliners often have small vertical winglets at the wingtips?",
+    "opts": [
+      "To reduce wingtip vortices and lower fuel‑consuming drag",
+      "To increase cabin pressure at the wingtips",
+      "To mount extra lights there",
+      "To make the plane look more modern"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 397,
+    "q": "Why does Mars appear reddish when observed from Earth?",
+    "opts": [
+      "Mars has active lava flowing across the surface",
+      "Its surface is covered with iron‑rich dust that has oxidized (rusted)",
+      "Its atmosphere glows red at night",
+      "Its polar ice caps reflect red light"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 398,
+    "q": "What is ‘retrograde motion’ when astronomers describe a planet’s movement?",
+    "opts": [
+      "A planet spinning backward on its axis",
+      "A cometary tail moving opposite the Sun",
+      "The planet physically reversing its orbit direction",
+      "An apparent westward motion of a planet as Earth overtakes it in orbit"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 399,
+    "q": "Why do pilots extend flaps on the wings during takeoff and landing?",
+    "opts": [
+      "To hide wing damage from inspection cameras",
+      "To increase lift and allow the airplane to fly safely at lower speeds",
+      "To make the wing look bigger for passengers",
+      "To reduce engine noise"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 400,
+    "q": "How does a gyroscope help an airplane or spacecraft navigate?",
+    "opts": [
+      "By acting as a backup engine for short bursts",
+      "Its spinning rotor resists changes in orientation, providing a stable reference for attitude",
+      "By amplifying radio signals for better communication",
+      "By increasing fuel efficiency through momentum storage"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 401,
+    "q": "What does 'HTTP' stand for in a website address?",
+    "opts": [
+      "Hyperlink Transfer Text Process",
+      "Hyper Terminal Text Protocol",
+      "High Transfer Text Protocol",
+      "HyperText Transfer Protocol"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 402,
+    "q": "Why do computers use binary (0s and 1s) instead of decimal?",
+    "opts": [
+      "Because electronic components reliably represent two states (on/off)",
+      "Because decimal numbers were banned in early computing",
+      "Because zeros and ones are prettier",
+      "Because binary is easier for humans to read"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 403,
+    "q": "What is 'cloud computing' in simple terms?",
+    "opts": [
+      "Keeping all your files only on your phone",
+      "A type of weather prediction service",
+      "A new kind of computer chip",
+      "Using remote servers over the Internet to store and process data"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 404,
+    "q": "What is 'phishing'?",
+    "opts": [
+      "A fast way to download files",
+      "A hobby involving catching fish",
+      "A fraudulent attempt to trick people into giving personal information",
+      "A type of computer virus that rewrites code"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 405,
+    "q": "Which component in a smartphone most directly runs apps?",
+    "opts": [
+      "The camera sensor",
+      "The processor/CPU",
+      "The touchscreen",
+      "The battery"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 406,
+    "q": "What does 'open source' mean?",
+    "opts": [
+      "Hardware designs shared online",
+      "A type of app store for open apps",
+      "Software that is always free of charge",
+      "Software whose source code is publicly available to view or modify"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 407,
+    "q": "What does 'RAM' do in a computer?",
+    "opts": [
+      "Holds data temporarily so the CPU can access it quickly",
+      "Permanently stores your photos and files",
+      "Controls the computer's power and cooling",
+      "Encrypts your files for security"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 408,
+    "q": "What is two-factor authentication (2FA)?",
+    "opts": [
+      "Logging in twice with the same password",
+      "A security method requiring two different types of verification (e.g., password and code)",
+      "Using two usernames at once",
+      "A method that requires a biometric only"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 409,
+    "q": "What is a 'cookie' on the web?",
+    "opts": [
+      "A program that deletes files",
+      "A secure encrypted message sent over HTTPS",
+      "A small piece of data a website stores in your browser",
+      "A physical token used for two-factor authentication"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 410,
+    "q": "Which technology lets you make contactless payments by tapping your phone?",
+    "opts": [
+      "NFC (Near-Field Communication)",
+      "Infrared",
+      "Bluetooth",
+      "Wi‑Fi"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 411,
+    "q": "What is an algorithm?",
+    "opts": [
+      "A place to store passwords",
+      "A file format for images",
+      "A type of web browser",
+      "A step-by-step procedure or set of rules for solving a problem"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 412,
+    "q": "Why can devices feel slower over time even if the hardware hasn't changed?",
+    "opts": [
+      "Because software updates, background apps, and accumulated data can use more resources",
+      "Because screens wear out",
+      "Because the internet becomes slower worldwide",
+      "Because batteries get lighter"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 413,
+    "q": "What does 'USB' stand for?",
+    "opts": [
+      "Unified System Backup",
+      "Universal Storage Bridge",
+      "User Service Board",
+      "Universal Serial Bus"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 414,
+    "q": "In programming, what's the main purpose of a 'loop'?",
+    "opts": [
+      "To repeat a set of instructions multiple times",
+      "To store data permanently",
+      "To speed up the computer's internet connection",
+      "To encrypt messages"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 415,
+    "q": "What is a 'bug' in software?",
+    "opts": [
+      "A small helper program that runs in the background",
+      "A backup file",
+      "An error or defect that causes incorrect behavior",
+      "A security feature"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 416,
+    "q": "Why is HTTPS safer than HTTP?",
+    "opts": [
+      "Because HTTPS loads pages faster",
+      "Because HTTPS blocks ads automatically",
+      "Because HTTPS encrypts the data sent between your browser and the website",
+      "Because HTTPS is owned by a security company"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 417,
+    "q": "What does 'latency' mean in networking?",
+    "opts": [
+      "The delay between sending and receiving data (response time)",
+      "The maximum download speed of a connection",
+      "The total amount of data transferred per month",
+      "The number of devices connected to a router"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 418,
+    "q": "What is the main job of a GPU (graphics processing unit)?",
+    "opts": [
+      "Render images and perform many calculations in parallel",
+      "Store all your files",
+      "Control the wireless connections",
+      "Manage your computer's power supply"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 419,
+    "q": "What does 'IoT' stand for?",
+    "opts": [
+      "Internet of Tasks",
+      "Input/Output Technology",
+      "Internet of Things — everyday devices connected to the internet",
+      "Integrated Operating Tool"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 420,
+    "q": "What is a blockchain in plain language?",
+    "opts": [
+      "A single central database managed by one company",
+      "A distributed, tamper-resistant list of records shared across many computers",
+      "A type of cloud storage owned by banks",
+      "A physical chain used for locking devices"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 421,
+    "q": "What is a cache in computing?",
+    "opts": [
+      "A permanent archive of all your files",
+      "A small, fast storage that keeps frequently used data for quick access",
+      "A backup copy stored on the cloud",
+      "A program that scans for viruses"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 422,
+    "q": "What is a QR code mainly used for?",
+    "opts": [
+      "To increase a device's battery life",
+      "To store a link or information that a smartphone camera can scan",
+      "To encrypt wireless networks",
+      "To boost Wi‑Fi signal strength"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 423,
+    "q": "Why do developers use version control systems like Git?",
+    "opts": [
+      "To run code faster on phones",
+      "To track code changes and collaborate safely",
+      "To automatically fix software bugs",
+      "To encrypt project files"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 424,
+    "q": "What does 'responsive design' for websites mean?",
+    "opts": [
+      "A website that replies instantly to user messages",
+      "A layout that adapts to different screen sizes like phones and tablets",
+      "A site designed only for desktop computers",
+      "A web page that uses only text and no images"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 425,
+    "q": "What makes a strong password?",
+    "opts": [
+      "Length, unpredictability, and a mix of characters",
+      "Reusing the same password on every site",
+      "Sharing it with a trusted friend",
+      "Using only simple words for easy recall"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 426,
+    "q": "Where in the ocean does most photosynthesis happen?",
+    "opts": [
+      "The hadal trenches",
+      "The abyssal plain",
+      "The photic (sunlight) zone",
+      "The mesopelagic (twilight) zone"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 427,
+    "q": "What creates long rolling swells that can travel thousands of miles across the ocean?",
+    "opts": [
+      "Winds from distant storms",
+      "Earth's rotation",
+      "Undersea earthquakes",
+      "Tidal pull from the Moon"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 428,
+    "q": "Which current carries warm water from the Gulf of Mexico across the North Atlantic toward Europe?",
+    "opts": [
+      "Gulf Stream",
+      "California Current",
+      "Kuroshio Current",
+      "Labrador Current"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 429,
+    "q": "What tiny algae live inside reef-building corals and feed them by photosynthesis?",
+    "opts": [
+      "Zooxanthellae",
+      "Seaweed",
+      "Phytoplankton",
+      "Bacteria"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 430,
+    "q": "Why are continental shelves important for marine life?",
+    "opts": [
+      "They trap ocean garbage",
+      "They block ocean currents",
+      "They are shallow, sunlight-rich areas that support abundant life",
+      "They produce deep-sea trenches"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 431,
+    "q": "What causes the familiar twice-daily rise and fall of sea level on most coasts?",
+    "opts": [
+      "Prevailing winds",
+      "Ocean currents",
+      "Seafloor earthquakes",
+      "The Moon's and Sun's gravity (tides)"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 432,
+    "q": "What most commonly triggers a tsunami?",
+    "opts": [
+      "Sudden undersea earthquakes or landslides",
+      "Large waves from ocean storms",
+      "A strong hurricane over the ocean",
+      "Normal tidal changes"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 433,
+    "q": "Which feature marks where tectonic plates are pulling apart under the ocean?",
+    "opts": [
+      "Abyssal plain",
+      "Oceanic trench",
+      "Mid-ocean ridge",
+      "Subduction zone"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 434,
+    "q": "What drives the deep global 'conveyor belt' of ocean circulation?",
+    "opts": [
+      "Differences in water temperature and salinity (density)",
+      "Surface winds alone",
+      "Underwater volcanoes",
+      "The Gulf Stream only"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 435,
+    "q": "Why are coral reefs often called 'rainforests of the sea'?",
+    "opts": [
+      "They have dense tall trees underwater",
+      "They are found at the ocean's deepest points",
+      "They host an extraordinary variety of species in a small area",
+      "They form only in freshwater"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 436,
+    "q": "What technology lets scientists map the seafloor using sound?",
+    "opts": [
+      "Underwater cameras alone",
+      "Multibeam sonar (echo sounding)",
+      "Fishing sonar for fish only",
+      "Optical satellites"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 437,
+    "q": "What is the primary cause of coral bleaching?",
+    "opts": [
+      "Lack of light",
+      "Overfishing only",
+      "Warmer water stressing corals and expelling their algae",
+      "Too much salt"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 438,
+    "q": "Where would you find the 'hadal zone'?",
+    "opts": [
+      "In coastal estuaries",
+      "On the continental shelf",
+      "Near the surface where sunlight penetrates",
+      "Inside the deepest ocean trenches"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 439,
+    "q": "What effect does the Coriolis force have on ocean currents?",
+    "opts": [
+      "It deflects currents right in the Northern Hemisphere and left in the Southern",
+      "It changes water chemistry",
+      "It deepens the thermocline",
+      "It makes tides twice a day"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 440,
+    "q": "What is an upwelling, and why does it matter?",
+    "opts": [
+      "When waves break on a beach, cleaning sand",
+      "A storm pushing water toward shore",
+      "Cold, nutrient-rich deep water rising to the surface that boosts productivity",
+      "A type of coral growth"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 441,
+    "q": "Why do some coastal areas become seasonal 'dead zones' with very low oxygen?",
+    "opts": [
+      "Shallow waters always lack oxygen",
+      "Too cold water holds less oxygen",
+      "Excess nutrient runoff causes algal blooms that deplete oxygen when they decay",
+      "Seafloor vents remove oxygen"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 442,
+    "q": "What is the main difference between a sea and an ocean?",
+    "opts": [
+      "Seas are always freshwater",
+      "Seas have no life",
+      "Seas are smaller and often partly enclosed by land; oceans are vast continuous bodies",
+      "Oceans are man-made"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 443,
+    "q": "What advantage do kelp forests provide along rocky coasts?",
+    "opts": [
+      "They cause tides",
+      "They create sand dunes",
+      "They warm the water",
+      "They form three-dimensional habitat that shelters many species"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 444,
+    "q": "How do many deep-sea organisms cope with immense pressure?",
+    "opts": [
+      "They have flexible bodies and specialized biochemistry adapted to high pressure",
+      "They avoid pressure by swimming to the surface",
+      "They have hard shells like land animals",
+      "They breathe air"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 445,
+    "q": "Why is plastic pollution especially harmful to marine food webs?",
+    "opts": [
+      "Animals ingest or become entangled in plastic and microplastics move up the food chain",
+      "Plastic increases ocean oxygen",
+      "Plastic dissolves into harmless nutrients",
+      "Plastic sinks quickly removing nutrients"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 446,
+    "q": "What is a gyre in the ocean?",
+    "opts": [
+      "A type of whale migration route",
+      "A deep-sea canyon",
+      "A large system of circulating surface currents formed by wind and the Coriolis effect",
+      "A coral island"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 447,
+    "q": "What technology lets scientists explore the deepest ocean without a crew aboard?",
+    "opts": [
+      "Sailboats",
+      "Remotely operated vehicles (ROVs) and autonomous submersibles",
+      "SCUBA gear",
+      "Snorkeling"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 448,
+    "q": "What forms the Earth's longest continuous mountain range, mostly hidden under the seas?",
+    "opts": [
+      "Mid-ocean ridges where tectonic plates spread apart",
+      "Coastal cliffs",
+      "Continental shelves",
+      "Himalayas"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 449,
+    "q": "Why do some funnel-shaped bays have extremely large tides?",
+    "opts": [
+      "Because whale migrations amplify tides",
+      "Because rivers add water",
+      "Funnel shape of the coastline amplifies tidal range",
+      "Because of coral reefs"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 450,
+    "q": "How does sound behave in water compared with air?",
+    "opts": [
+      "Only fish make sounds underwater",
+      "Sound travels faster and farther in water than in air",
+      "Sound can't travel underwater",
+      "Sound travels slower in water"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 451,
+    "q": "Which part of a baleen whale acts like a giant sieve to catch krill?",
+    "opts": [
+      "Blowhole",
+      "Tail fluke",
+      "Flipper",
+      "Baleen plates"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 452,
+    "q": "How do dolphins and other toothed whales locate prey in dark or murky water?",
+    "opts": [
+      "Detecting magnetic fields",
+      "Echolocation clicks and echoes",
+      "Smelling through the water",
+      "Following fish schools by sight"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 453,
+    "q": "Which animal is the largest creature to have ever lived on Earth?",
+    "opts": [
+      "Great white shark",
+      "African elephant",
+      "Blue whale",
+      "Giant squid"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 454,
+    "q": "Why do humpback whales sing long, changing songs?",
+    "opts": [
+      "To mark territory only",
+      "To scare predators away",
+      "To communicate and attract mates across distances",
+      "To coordinate group hunting only"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 455,
+    "q": "What is unusual about how sharks maintain their supply of teeth?",
+    "opts": [
+      "They continuously grow new teeth in rows",
+      "They use other fish’s teeth",
+      "They have only one lifelong set of teeth",
+      "They glue new teeth onto the jaw"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 456,
+    "q": "What tiny sensory organs help sharks detect electrical signals from prey?",
+    "opts": [
+      "Lateral line",
+      "Gills",
+      "Spiracles",
+      "Ampullae of Lorenzini"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 457,
+    "q": "Which surprising fact is true about octopuses?",
+    "opts": [
+      "They have no blood",
+      "They photosynthesize",
+      "They breathe through gills only",
+      "They have three hearts"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 458,
+    "q": "How do octopuses change their skin from smooth to bumpy to match rocks?",
+    "opts": [
+      "By extending skin bumps called papillae",
+      "By jetting water",
+      "By rapid color change only",
+      "By releasing ink"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 459,
+    "q": "How do humpback whales corral and catch schools of fish?",
+    "opts": [
+      "They create bubble nets around the fish",
+      "They chase them onto beaches",
+      "They dig into the sea floor",
+      "They use sonar like dolphins"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 460,
+    "q": "Which marine animal is famous for males carrying and brooding the babies?",
+    "opts": [
+      "Sea turtle",
+      "Seahorse",
+      "Octopus",
+      "Clownfish"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 461,
+    "q": "Which fish species can change sex during its lifetime, often when the dominant female dies?",
+    "opts": [
+      "Salmon",
+      "Clownfish",
+      "Shark",
+      "Tuna"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 462,
+    "q": "Which deep-sea creature dangles a glowing lure to attract prey?",
+    "opts": [
+      "Lantern shark",
+      "Jellyfish",
+      "Anglerfish",
+      "Viperfish"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 463,
+    "q": "What sense helps baby sea turtles find the ocean and later return to their birth beaches?",
+    "opts": [
+      "Sharp smell for the beach",
+      "Magnetic field detection",
+      "Echolocation",
+      "Night vision"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 464,
+    "q": "What determines whether many sea turtle hatchlings become male or female?",
+    "opts": [
+      "Nest incubation temperature",
+      "The time of day they hatch",
+      "How much they swim after hatching",
+      "Amount of salt in the sand"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 465,
+    "q": "What makes the mantis shrimp’s eyes remarkable?",
+    "opts": [
+      "They have dozens of color receptors and detect polarized light",
+      "They see only black and white",
+      "They glow in the dark",
+      "They are immobile and fixed to the head"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 466,
+    "q": "How can mudskippers spend hours out of water on mudflats without drowning?",
+    "opts": [
+      "They photosynthesize with their skin",
+      "They use lungs like mammals",
+      "They breathe through their skin and mouth lining",
+      "They hold their breath for days"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 467,
+    "q": "What do cleaner fish do when a large fish visits their station?",
+    "opts": [
+      "Lay eggs on the big fish",
+      "Bite off pieces of fin for food",
+      "Remove parasites and dead skin",
+      "Chase the big fish away"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 468,
+    "q": "Which statement about some large sharks, like makos and great whites, is true?",
+    "opts": [
+      "They are cold-blooded in every tissue",
+      "They hibernate in winter",
+      "They breathe air like mammals",
+      "They can warm parts of their bodies to swim faster"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 469,
+    "q": "How do pufferfish deter predators in addition to puffing up?",
+    "opts": [
+      "By releasing electric shocks",
+      "By changing into camouflage patterns only",
+      "By singing to warn others",
+      "By inflating and carrying potent toxin in their bodies"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 470,
+    "q": "What can electric fish such as electric rays or eels do with their discharge?",
+    "opts": [
+      "Cook their prey like a microwave",
+      "Signal for photosynthesis",
+      "Make loud sounds to scare predators",
+      "Stun prey and sense their surroundings"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 471,
+    "q": "Humpback whales’ songs changing and spreading between groups is an example of what behavior?",
+    "opts": [
+      "Cultural learning",
+      "Genetic mutation",
+      "Seasonal migration",
+      "Innate reflex"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 472,
+    "q": "Which tide-pool animal is famous for regrowing lost arms?",
+    "opts": [
+      "Starfish",
+      "Sea anemone",
+      "Sea sponge",
+      "Hermit crab"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 473,
+    "q": "Which marine mammals are known to sleep with one half of their brain awake at a time?",
+    "opts": [
+      "Sea turtles",
+      "Sharks",
+      "Dolphins",
+      "Whales only"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 474,
+    "q": "What dramatic defense do some sea cucumbers use when attacked?",
+    "opts": [
+      "Hide in shells",
+      "Expel their internal organs to distract predators",
+      "Spray ink",
+      "Play dead and float away"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 475,
+    "q": "What is kleptoplasty, a surprising adaptation seen in some sea slugs?",
+    "opts": [
+      "Making a hard shell from sand",
+      "Stealing and using chloroplasts from algae to photosynthesize",
+      "Singing to attract mates",
+      "Filtering plankton like a baleen whale"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 476,
+    "q": "Which flying mammal uses echolocation to navigate in darkness?",
+    "opts": [
+      "Eagle",
+      "Owl",
+      "Bat",
+      "Flying squirrel"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 477,
+    "q": "Which mammal has the largest brain by mass?",
+    "opts": [
+      "Human",
+      "Blue whale",
+      "Sperm whale",
+      "Elephant"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 478,
+    "q": "What is the name for egg-laying mammals like the platypus and echidna?",
+    "opts": [
+      "Primates",
+      "Rodents",
+      "Monotremes",
+      "Marsupials"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 479,
+    "q": "What do a camel's humps primarily store to help it survive long desert journeys?",
+    "opts": [
+      "Salt",
+      "Water",
+      "Muscle",
+      "Fat"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 480,
+    "q": "Which nocturnal mammal glides between trees using a skin membrane rather than truly flying?",
+    "opts": [
+      "Lemur",
+      "Flying squirrel",
+      "Bat",
+      "Owl"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 481,
+    "q": "Which mammal is the fastest land animal in short bursts?",
+    "opts": [
+      "Cheetah",
+      "Pronghorn",
+      "Lion",
+      "Horse"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 482,
+    "q": "Which animal commonly uses a prehensile tail as a fifth limb to swing through trees?",
+    "opts": [
+      "Spider monkey",
+      "Opossum",
+      "Koala",
+      "Gibbon"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 483,
+    "q": "Which domesticated mammal has around 300 million scent receptors, far more than humans?",
+    "opts": [
+      "Cat",
+      "Horse",
+      "Cow",
+      "Dog"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 484,
+    "q": "What adaptation keeps whales warm in cold oceans?",
+    "opts": [
+      "Thick fur",
+      "Shivering",
+      "Feathers",
+      "Blubber (thick fat)"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 485,
+    "q": "Which mammal gives birth to very underdeveloped young that continue developing in a pouch?",
+    "opts": [
+      "Platypus",
+      "Elephant",
+      "Kangaroo",
+      "Whale"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 486,
+    "q": "Which mammal is famous for cooperative pack hunting and complex social structure with an alpha pair?",
+    "opts": [
+      "Cheetah",
+      "Tiger",
+      "Hyena",
+      "Wolf"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 487,
+    "q": "Which marine mammal produces very high-fat milk so pups build blubber quickly?",
+    "opts": [
+      "Manatee",
+      "Seal",
+      "Whale",
+      "Dolphin"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 488,
+    "q": "What are the specialized sensory hairs many mammals use to detect nearby movement called?",
+    "opts": [
+      "Scales",
+      "Whiskers (vibrissae)",
+      "Bristles",
+      "Antennae"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 489,
+    "q": "Which bear species lives only in the Arctic and depends on sea ice to hunt seals?",
+    "opts": [
+      "Panda",
+      "Grizzly",
+      "Polar bear",
+      "Brown bear"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 490,
+    "q": "Which slow-moving mammal spends most of its life hanging upside down in trees?",
+    "opts": [
+      "Opossum",
+      "Sloth",
+      "Koala",
+      "Gibbon"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 491,
+    "q": "What is the term for seasonal movement of animals between habitats, often seen in whales and caribou?",
+    "opts": [
+      "Migration",
+      "Territoriality",
+      "Torpor",
+      "Hibernation"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 492,
+    "q": "Which mammal often sleeps up to 18–20 hours a day to conserve energy?",
+    "opts": [
+      "Koala",
+      "Dog",
+      "Cow",
+      "Elephant"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 493,
+    "q": "Which common farm mammal digests tough plants by chewing cud in a multi-chambered stomach?",
+    "opts": [
+      "Chicken",
+      "Cow",
+      "Pig",
+      "Horse"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 494,
+    "q": "Which North American marsupial carries its young in a pouch and sometimes 'plays dead' as a defense?",
+    "opts": [
+      "Skunk",
+      "Raccoon",
+      "Bandicoot",
+      "Opossum"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 495,
+    "q": "Which egg-laying mammal uses electroreception in its bill to find prey underwater?",
+    "opts": [
+      "Seal",
+      "Platypus",
+      "Echidna",
+      "Otter"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 496,
+    "q": "Which species is the largest land mammal and uses tusks for digging and fighting?",
+    "opts": [
+      "Rhino",
+      "Hippopotamus",
+      "Asian elephant",
+      "African elephant"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 497,
+    "q": "Which small mammal is famous for building complex underground burrow systems called 'warrens'?",
+    "opts": [
+      "Mole",
+      "Beaver",
+      "Fox",
+      "Rabbit"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 498,
+    "q": "Which marine mammal relies on incredibly dense fur—one of the densest of any animal—to stay warm rather than thick blubber?",
+    "opts": [
+      "Seal",
+      "Polar bear",
+      "Sea otter",
+      "Walrus"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 499,
+    "q": "Which whale species is famous for long, complex songs used in long-distance communication and mating displays?",
+    "opts": [
+      "Sperm whale",
+      "Humpback whale",
+      "Blue whale",
+      "Orca"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 500,
+    "q": "Which mammal is known as the loudest land animal, using booming calls that carry through tropical forests?",
+    "opts": [
+      "Wolf",
+      "Elephant",
+      "Lion",
+      "Howler monkey"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 501,
+    "q": "Why do birds preen their feathers regularly?",
+    "opts": [
+      "To cool down by separating feathers",
+      "To remove old skin cells only",
+      "To put feathers back in order and spread natural oil for waterproofing",
+      "To mark territory with scent"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 502,
+    "q": "How can some birds sleep while they are flying long distances?",
+    "opts": [
+      "They store oxygen to stay conscious without sleep",
+      "They don't actually sleep during long flights",
+      "They land briefly on thermals to nap",
+      "By sleeping with one half of their brain while continuing to glide"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 503,
+    "q": "How do many nocturnal migratory birds find their direction at night?",
+    "opts": [
+      "By using the pattern of stars overhead",
+      "By smelling coastal air currents",
+      "By listening for ocean waves",
+      "By following city lights"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 504,
+    "q": "Why are many bird bones hollow or pneumatized?",
+    "opts": [
+      "To produce louder calls",
+      "To hold extra air for singing",
+      "To reduce weight and make flight easier",
+      "To store fat for migration"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 505,
+    "q": "Why do some bird feathers appear iridescent and change color as you move?",
+    "opts": [
+      "Birds spread oils that change color in sunlight",
+      "Blood flow under the skin alters hue",
+      "Special pigments change with temperature",
+      "Microscopic structures split and reflect light to create shifting colors"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 506,
+    "q": "How do wandering albatrosses manage huge ocean journeys with minimal flapping?",
+    "opts": [
+      "They store energy in special fat reserves",
+      "They glide between islands only",
+      "They ride on whales' wakes",
+      "They use wind gradients and dynamic soaring to extract energy from the wind"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 507,
+    "q": "Why do migrating geese and other large birds fly in a V formation?",
+    "opts": [
+      "Because the leader chooses the route every time",
+      "To look intimidating to predators",
+      "To make it easier to hear each other",
+      "Each bird benefits from the upwash of air created by the bird in front, saving energy"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 508,
+    "q": "What is the primary purpose of a bird's soft down feathers?",
+    "opts": [
+      "To help with steering in flight",
+      "To protect against UV radiation",
+      "To trap air and keep the bird warm (insulation)",
+      "To act as a display during courtship"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 509,
+    "q": "Why do so many bird species undertake long seasonal migrations?",
+    "opts": [
+      "Because they cannot fly at night otherwise",
+      "To avoid molting entirely",
+      "To reach seasonal food supplies and better breeding areas",
+      "To extend their lifespan by moving frequently"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 510,
+    "q": "How are hummingbirds able to hover in front of flowers?",
+    "opts": [
+      "They rely on strong updrafts only",
+      "They beat their wings extremely fast and move them in a figure-eight to generate lift on both strokes",
+      "They inflate air sacs to float",
+      "They hold onto flower stems with their feet"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 511,
+    "q": "Why do birds go through a molt and replace their feathers?",
+    "opts": [
+      "To attract predators as a defense",
+      "To replace worn feathers so they can fly, stay insulated and remain waterproof",
+      "To transform into a different species",
+      "To change their song"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 512,
+    "q": "What surprising sense helps homing pigeons find their way over unfamiliar terrain?",
+    "opts": [
+      "A well-developed sense of smell (olfaction)",
+      "Taste (gustation)",
+      "Detecting low-frequency radio signals",
+      "Echolocation similar to bats"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 513,
+    "q": "Why do many birds choose cavities or holes in trees for nesting?",
+    "opts": [
+      "To hide eggs and chicks from predators and harsh weather",
+      "To use less nesting material",
+      "Because cavities are warmer for incubating eggs",
+      "To showcase brighter plumage inside a hole"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 514,
+    "q": "Why have several island bird species evolved to be flightless?",
+    "opts": [
+      "Because with few predators and limited resources, flight became too costly and they adapted to walk or run",
+      "Because island winds prevent flight",
+      "Because they developed heavier feathers for warmth",
+      "Because islands lack trees for perching"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 515,
+    "q": "How does a kestrel hover in place while searching for prey on the ground?",
+    "opts": [
+      "By facing into the wind and using small wing and tail adjustments to stay stationary",
+      "By perching on air itself",
+      "By spinning its wings like a tiny helicopter",
+      "By fluttering its feet rapidly to balance midair"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 516,
+    "q": "Why do some migratory birds fly at high altitudes during long journeys?",
+    "opts": [
+      "To join flocks of high-flying eagles",
+      "To ride favorable wind currents and conserve energy over long distances",
+      "To get a better view of cities below",
+      "To avoid clouds only"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 517,
+    "q": "How do birds keep a continuous efficient supply of air through their lungs during flight?",
+    "opts": [
+      "An air-sacs system creates a continuous unidirectional flow of air through the lungs",
+      "They slow their breathing to conserve oxygen",
+      "They switch to anaerobic respiration in flight",
+      "They breathe through pores in their feathers"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 518,
+    "q": "Why do many birds sing most intensely at dawn, a behavior called the 'dawn chorus'?",
+    "opts": [
+      "Because feathers vibrate best in cool air",
+      "Because predators can't hunt at dawn",
+      "Because they only eat at dusk and need to burn calories",
+      "Because calm morning air and low background noise let songs travel farther for territory and mate attraction"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 519,
+    "q": "Why do some birds bob their heads as they walk?",
+    "opts": [
+      "To help stabilize vision and judge distances accurately",
+      "To dislodge parasites from feathers",
+      "To scare insects into movement",
+      "To smell the air better"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 520,
+    "q": "What makes feathers both lightweight and strong enough for flight?",
+    "opts": [
+      "A central hollow shaft combined with interlocking barbs and tiny hooks (barbules) gives strength with very low weight",
+      "They are inflated with air from the lungs",
+      "They are made of hollow bone",
+      "They are woven from muscle fibers"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 521,
+    "q": "Why do migratory birds stop at certain sites along their route instead of flying nonstop?",
+    "opts": [
+      "To change the color of their feathers",
+      "To recruit younger birds into the flock",
+      "To rest and refuel by finding abundant food and rebuilding energy reserves",
+      "To practice flying in different wind conditions"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 522,
+    "q": "Besides vision and smell, which sense do many migratory birds use to help them navigate long distances?",
+    "opts": [
+      "An extra-sensitive sense of touch in their feet",
+      "A magnetic sense that detects Earth's magnetic field",
+      "A refined sense of taste",
+      "The ability to sense Wi‑Fi signals"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 523,
+    "q": "Why do birds bathe in water or take dust baths regularly?",
+    "opts": [
+      "To practice swimming for migration",
+      "To soften eggshells for laying",
+      "To clean feathers, remove parasites and maintain insulating and waterproof properties",
+      "To cool down only"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 524,
+    "q": "Why are the eggs of many ground-nesting birds speckled and patterned?",
+    "opts": [
+      "Speckles are leftovers from the parents' diet",
+      "Camouflage helps hide eggs from predators on the open ground",
+      "Speckles make eggs hatch faster",
+      "Speckles help eggs float if flooded"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 525,
+    "q": "Why do many small songbirds prefer to migrate at night rather than during the day?",
+    "opts": [
+      "Because insects are only active at night",
+      "To save daylight hours for singing",
+      "Nights have calmer air, fewer predators, and visible stars for navigation, making travel more efficient",
+      "Because nights are warmer for flying"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 526,
+    "q": "Which plant tissue carries water from roots up to the leaves?",
+    "opts": [
+      "Xylem",
+      "Stomata",
+      "Cambium",
+      "Phloem"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 527,
+    "q": "What is a samara, like the seed from a maple tree?",
+    "opts": [
+      "A winged seed that spins in the air",
+      "A fleshy fruit",
+      "A root storage organ",
+      "A type of flower petal"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 528,
+    "q": "Why do many carnivorous plants such as Venus flytraps grow in bogs?",
+    "opts": [
+      "Because they parasitize other plants there",
+      "Because bogs have no sunlight",
+      "Because bog soils are low in nutrients, so they trap insects for food",
+      "Because bogs are nutrient-rich"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 529,
+    "q": "What does thick bark help some trees survive?",
+    "opts": [
+      "Fungal infections only",
+      "Excessive rainfall",
+      "Insect attacks only",
+      "Wildfires and heat damage"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 530,
+    "q": "What are mycorrhizae?",
+    "opts": [
+      "Tiny fungal leaves",
+      "A type of seed coating",
+      "Symbiotic partnerships between fungi and plant roots that aid nutrient exchange",
+      "A tree disease"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 531,
+    "q": "What is the main purpose of nectar in flowers?",
+    "opts": [
+      "To reward and attract pollinators",
+      "To scent the soil",
+      "To trap and drown insects permanently",
+      "To store water for the plant"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 532,
+    "q": "How do dandelion seeds usually travel away from the parent plant?",
+    "opts": [
+      "By floating on water",
+      "By exploding seed pods",
+      "On animal fur",
+      "By wind, carried on a parachute-like pappus"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 533,
+    "q": "Which forest layer forms the continuous roof of leaves and branches?",
+    "opts": [
+      "Emergent layer",
+      "Forest floor",
+      "Understory",
+      "Canopy"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 534,
+    "q": "How do epiphytes like many orchids get their nutrients?",
+    "opts": [
+      "By tapping the host tree's sap",
+      "By absorbing moisture and debris from the air and surfaces where they grow",
+      "By surviving without any water",
+      "By sending roots deep into the soil"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 535,
+    "q": "What is the main body of a fungus called?",
+    "opts": [
+      "Spore (single reproductive cell)",
+      "Mycelium (a network of hyphae)",
+      "Mushroom (the cap you see)",
+      "Mold (surface growth)"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 536,
+    "q": "Why do some pine cones only open after a fire?",
+    "opts": [
+      "Because heat melts resin and triggers seed release into cleared, nutrient-rich soil",
+      "To attract birds after a fire",
+      "Because fire fertilizes the cones",
+      "To avoid being eaten by animals"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 537,
+    "q": "What can counting a tree's rings tell you?",
+    "opts": [
+      "The tree's age and past growth conditions like wet or dry years",
+      "The exact number of seeds it produced",
+      "The tree's current leaf color",
+      "The tree's species"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 538,
+    "q": "Which peak is the highest above sea level?",
+    "opts": [
+      "Kilimanjaro",
+      "K2",
+      "Mount Everest",
+      "Denali"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 539,
+    "q": "How do mangrove trees get oxygen in waterlogged mud?",
+    "opts": [
+      "Floating leaves with air pockets",
+      "Photosynthetic bark",
+      "Deep taproots below the mud",
+      "Pneumatophores — special aerial roots that take in air"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 540,
+    "q": "What advantage do evergreen trees have in cold climates?",
+    "opts": [
+      "They only live in deserts",
+      "They produce seeds faster",
+      "They keep leaves year-round so they can photosynthesize whenever conditions allow and avoid rebuilding leaves each spring",
+      "They drop all leaves yearly to reduce pests"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 541,
+    "q": "Double fertilization is a process unique to which group of plants?",
+    "opts": [
+      "Mosses",
+      "Ferns",
+      "Gymnosperms like pines",
+      "Flowering plants (angiosperms)"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 542,
+    "q": "How does a pitcher plant digest the insects that fall inside its trap?",
+    "opts": [
+      "It chews them with tooth-like structures",
+      "It freezes them",
+      "It buries them in soil to decompose",
+      "Digestive enzymes and microbes in the fluid break them down"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 543,
+    "q": "Why do some seeds remain dormant for years before sprouting?",
+    "opts": [
+      "So they can glow and attract pollinators",
+      "To avoid sprouting during unfavorable conditions and wait for cues like moisture or temperature",
+      "To taste better to animals",
+      "To accumulate mutations until conditions change"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 544,
+    "q": "What important role do fungi perform in forests?",
+    "opts": [
+      "They build homes for animals",
+      "They pollinate most flowers",
+      "They produce energy by photosynthesis",
+      "They decompose dead matter and recycle nutrients back into the soil"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 545,
+    "q": "What is a lichen?",
+    "opts": [
+      "A young tree stage",
+      "A single fungus species living alone",
+      "A partnership between a fungus and algae or cyanobacteria living together",
+      "A plant that grows a fungal leaf"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 546,
+    "q": "How do many bee-pollinated flowers help guide bees to their nectar?",
+    "opts": [
+      "By mimicking predators",
+      "By showing bright red colors humans prefer",
+      "By tasting bitter to other insects",
+      "With ultraviolet nectar guides on petals that bees can see"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 547,
+    "q": "How do burrs like burdock seeds typically move to new locations?",
+    "opts": [
+      "By glowing to attract insects",
+      "By floating on water",
+      "By being shot out explosively",
+      "By clinging to fur or clothing and hitching a ride"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 548,
+    "q": "Why do cacti have spines instead of broad leaves?",
+    "opts": [
+      "To attract pollinators",
+      "To store sugars for winter",
+      "To help them swim long distances",
+      "To reduce water loss, provide shade, and deter herbivores"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 549,
+    "q": "What is photoperiodism in plants?",
+    "opts": [
+      "A response to salt levels in water",
+      "A response to wind speed",
+      "A response to soil nutrients",
+      "A response to day length that controls flowering and other seasonal behaviors"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 550,
+    "q": "How can coconut seeds travel long distances across oceans?",
+    "opts": [
+      "They only travel on mountain slopes",
+      "They hitch rides on birds",
+      "They float and can resist saltwater until they reach land",
+      "They are carried by fish"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 551,
+    "q": "What causes most earthquakes?",
+    "opts": [
+      "Impact from meteors",
+      "Volcanoes erupting molten rock",
+      "Explosions from mining activity",
+      "Slipping of tectonic plates along faults"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 552,
+    "q": "What do geologists call molten rock that remains underground?",
+    "opts": [
+      "Obsidian",
+      "Magma",
+      "Lava",
+      "Basalt"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 553,
+    "q": "Why are shield volcanoes typically broad with gentle slopes?",
+    "opts": [
+      "They form from many small explosions",
+      "They are made of loose volcanic dust",
+      "They eject ash that erodes quickly",
+      "They erupt runny low-silica lava that spreads far"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 554,
+    "q": "Which cloud type often signals a developing thunderstorm with towering vertical growth?",
+    "opts": [
+      "Stratus",
+      "Altocumulus",
+      "Cirrus",
+      "Cumulonimbus"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 555,
+    "q": "Why do clouds need tiny particles like dust or sea salt to form?",
+    "opts": [
+      "They heat the air so clouds can grow",
+      "Those particles act as condensation nuclei for water droplets",
+      "They stop clouds from evaporating",
+      "They attract lightning to start rain"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 556,
+    "q": "In the water cycle, what process releases water vapor from plants into the air?",
+    "opts": [
+      "Condensation on leaves",
+      "Evaporation from soil",
+      "Transpiration from leaves",
+      "Infiltration into the ground"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 557,
+    "q": "How does an earthquake's epicenter relate to its focus (hypocenter)?",
+    "opts": [
+      "A place where aftershocks originate",
+      "A point below ground where rupture starts",
+      "A point on the surface directly above the rupture",
+      "A spot where instruments measure shaking"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 558,
+    "q": "Why do tropical cyclones (hurricanes) rarely form right at the equator?",
+    "opts": [
+      "Ocean water is too cold there",
+      "The Coriolis effect is too weak to make them spin",
+      "Humidity is too low",
+      "There is too much wind shear at the equator"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 559,
+    "q": "What makes basalt different from granite?",
+    "opts": [
+      "Basalt forms from quick-cooling lava and is dark",
+      "Granite forms in the deep ocean",
+      "Granite is volcanic glass",
+      "Basalt is always porous and light-colored"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 560,
+    "q": "How can a major volcanic eruption temporarily cool the global climate?",
+    "opts": [
+      "Ash absorbs all incoming solar radiation",
+      "The eruption releases greenhouse gases",
+      "Sulfate particles are injected into the stratosphere and reflect sunlight",
+      "Lava flows block sunlight"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 561,
+    "q": "Which seismic waves can travel through Earth's liquid outer core?",
+    "opts": [
+      "S-waves only",
+      "P-waves only",
+      "Both P-waves and S-waves",
+      "Surface waves only"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 562,
+    "q": "What is a key reason thunderstorms can produce hail?",
+    "opts": [
+      "Low humidity encourages hail formation",
+      "Strong updrafts keep ice aloft so it can grow",
+      "Warm ground melts ice into hailstones",
+      "Slow winds allow ice to form gradually"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 563,
+    "q": "Where does most evaporation in the global water cycle come from?",
+    "opts": [
+      "Melting glaciers",
+      "Urban areas",
+      "The oceans' surface",
+      "Tropical forests"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 564,
+    "q": "What does the term 'pyroclastic flow' describe?",
+    "opts": [
+      "A hot, fast avalanche of gas and volcanic rock",
+      "A slow-moving lava stream",
+      "An ash cloud that stays high in the stratosphere",
+      "A cooled lava layer on a volcano's slope"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 565,
+    "q": "How do clouds make precipitation when air cools?",
+    "opts": [
+      "Cool air instantly freezes moisture into rain",
+      "Air cools and water condenses on tiny particles into droplets that grow and fall",
+      "Cooling breaks clouds apart, releasing stored rain",
+      "Cooling filters dust which turns into rain"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 566,
+    "q": "Why do some earthquakes trigger tsunamis?",
+    "opts": [
+      "They rapidly increase evaporation over the ocean",
+      "They attract strong storms that push waves",
+      "They warm the ocean surface",
+      "They abruptly move the seafloor and displace large volumes of water"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 567,
+    "q": "Which rock type forms when sediments are compacted and cemented over time?",
+    "opts": [
+      "Sedimentary",
+      "Metamorphic",
+      "Plutonic",
+      "Igneous"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 568,
+    "q": "How does the Coriolis effect influence large-scale weather systems?",
+    "opts": [
+      "It reduces wind speed globally",
+      "It makes them rotate right in the Northern Hemisphere and left in the Southern",
+      "It creates clouds directly",
+      "It changes their temperature"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 569,
+    "q": "What happens to air temperature and humidity as warm, moist air rises and cools?",
+    "opts": [
+      "Humidity suddenly vanishes",
+      "Temperature rises and humidity increases",
+      "Temperature stays the same while humidity drops",
+      "Temperature falls and relative humidity rises until condensation occurs"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 570,
+    "q": "Why is lightning often seen before thunder is heard?",
+    "opts": [
+      "Light travels faster than sound, so we see the flash first",
+      "Clouds block thunder but not lightning",
+      "Lightning happens at higher altitude than thunder",
+      "Thunder is silent unless lightning is close"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 571,
+    "q": "Which process moves surface water down into underground aquifers?",
+    "opts": [
+      "Condensation",
+      "Infiltration and percolation",
+      "Evaporation",
+      "Transpiration"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 572,
+    "q": "Why are stratovolcanoes often more explosive than shield volcanoes?",
+    "opts": [
+      "They form from tiny repeated lava flows",
+      "They erupt only underwater",
+      "Their thicker, silica-rich magma traps gases that build pressure",
+      "They lack any ash production"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 573,
+    "q": "What role do warmer sea surface temperatures play in tropical storm intensity?",
+    "opts": [
+      "They cause storms to become drier",
+      "They supply extra heat and moisture that can strengthen storms",
+      "They reduce wind shear and stop storms forming",
+      "They make storms spin slower"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 574,
+    "q": "What can geologists learn from layers and fossils in sedimentary rock?",
+    "opts": [
+      "How and where magma cooled recently",
+      "The composition of Earth's core",
+      "The order of past events and ancient environments",
+      "Current earthquake risks for the area"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 575,
+    "q": "Why is volcanic ash hazardous to aircraft?",
+    "opts": [
+      "Ash increases lift over wings dangerously",
+      "Ash only blocks radio signals, causing navigation loss",
+      "Ash can melt inside jet engines and abrade parts",
+      "Ash makes planes much lighter"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 576,
+    "q": "Which mountain is tallest when measured from its base on the ocean floor?",
+    "opts": [
+      "Mount Fuji",
+      "Kilimanjaro",
+      "Mount Everest",
+      "Mauna Kea"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 577,
+    "q": "Why are sunsets often red or orange?",
+    "opts": [
+      "Red light scatters more than blue",
+      "Humidity creates red pigments in the sky",
+      "The sun produces more red light in the evening",
+      "Sunlight travels through more air so blue light is scattered away"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 578,
+    "q": "What is the world’s largest hot desert?",
+    "opts": [
+      "Arabian",
+      "Gobi",
+      "Kalahari",
+      "Sahara"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 579,
+    "q": "Why do onions make your eyes water when you chop them?",
+    "opts": [
+      "They release tiny solid particles that scratch the eye",
+      "Onions have high acidity that splashes into the eye",
+      "Onions cool the air and trigger tear glands",
+      "They release volatile sulfur compounds that irritate your eyes"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 580,
+    "q": "Why does food taste bland when you have a stuffed nose?",
+    "opts": [
+      "Stuffed noses cool food, dulling taste",
+      "Air pressure affects taste buds directly",
+      "Blocked noses reduce tongue sensitivity to salt",
+      "Smell contributes most of the perceived flavor via the nose"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 581,
+    "q": "Which river basin contains the largest tropical rainforest on Earth?",
+    "opts": [
+      "Mekong Basin",
+      "Amazon Basin",
+      "Congo Basin",
+      "Mississippi Basin"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 582,
+    "q": "Why do brittle materials like glass break into sharp shards?",
+    "opts": [
+      "They have a regular crystal structure that splits neatly",
+      "They expand suddenly and explode into pieces",
+      "They contain trapped pockets of gas that burst out",
+      "They fracture without bending, so cracks run and create sharp edges"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 583,
+    "q": "Why can you often hear bass music through walls more easily than high notes?",
+    "opts": [
+      "Low notes are louder by nature",
+      "High notes get absorbed by air",
+      "Low frequencies transmit and diffract through structures more readily",
+      "Walls amplify low frequencies"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 584,
+    "q": "Why does sugar dissolve faster in warm water than in cold?",
+    "opts": [
+      "Warm water chemically changes sugar to make it dissolve",
+      "Sugar only dissolves in hot water, not cold",
+      "Cold breaks sugar crystals into pieces rather than dissolving them",
+      "Higher temperature makes molecules move faster, increasing mixing and solubility"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 585,
+    "q": "Why do rainbows appear after rain when the sun shines?",
+    "opts": [
+      "Clouds act like prisms to color the sky",
+      "Rain cools the air and creates colorful ions",
+      "Raindrops emit their own colored light after being struck by sunlight",
+      "Sunlight is bent, reflected and split inside raindrops into colors"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 586,
+    "q": "Why does a cut apple or banana turn brown when left exposed to air?",
+    "opts": [
+      "Enzymes in the fruit oxidize natural compounds, making brown pigments",
+      "Bacteria quickly cover the surface and change its color",
+      "Sugars caramelize immediately on contact with oxygen",
+      "Sunlight burns the exposed fruit surface"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 587,
+    "q": "Why do your ears sometimes pop when you fly or drive over mountains?",
+    "opts": [
+      "Air pressure around you changes and your Eustachian tube equalizes the pressure",
+      "Your eardrum expands in cold air",
+      "Tiny bones in the ear shift position",
+      "Your ear muscles spasm from motion"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 588,
+    "q": "Why are some clothes described as 'breathable' while others aren't?",
+    "opts": [
+      "They actively pump air using tiny fans woven into the fabric",
+      "Breathable fabrics let water vapor pass through tiny pores while blocking liquid",
+      "They are made from special cooling chemicals",
+      "They are electrically charged to repel sweat"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 589,
+    "q": "Why does chocolate melt in your mouth rather than staying solid?",
+    "opts": [
+      "It contains water that boils at body temperature",
+      "Chocolate contains tiny heaters that warm it",
+      "Its main fat (cocoa butter) melts near body temperature",
+      "Chocolate crystals dissolve on the tongue like sugar"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 590,
+    "q": "Why do car interiors fade and crack when left in direct sunlight for years?",
+    "opts": [
+      "Cars vibrate more in sunlight, weakening materials",
+      "Sunlight leaves a colored residue that attracts dirt",
+      "Ultraviolet light breaks chemical bonds in polymers and heat speeds the damage",
+      "Direct sunlight freezes plastics causing them to shatter"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 591,
+    "q": "Why does cracking your knuckles make a popping sound?",
+    "opts": [
+      "Air slowly escapes from the joint and makes a soft hiss",
+      "A gas bubble forms or collapses suddenly in the joint fluid, making the pop",
+      "Tendons snap over bones to make the noise",
+      "Bones rub together in the joint causing the pop"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 592,
+    "q": "Why do foods like bacon or onions sizzle loudly when they hit a hot pan?",
+    "opts": [
+      "They burn instantly and explode",
+      "Water inside them vaporizes rapidly into steam, making the sizzling sound",
+      "The pan generates electrical noise when food contacts it",
+      "Sizzling is sound from sugars crystallizing"
+    ],
+    "ans": 0
+  },
+  {
+    "id": 593,
+    "q": "Why do polarized sunglasses reduce glare from flat surfaces like water or roads?",
+    "opts": [
+      "They reflect sunlight away from your eyes using mirrors",
+      "They increase contrast by adding color filters",
+      "They block light oscillating in a particular direction, reducing horizontally polarized reflections",
+      "They darken evenly without affecting reflections"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 594,
+    "q": "Why does a straight object look bent when half submerged in water?",
+    "opts": [
+      "Water makes objects grow longer",
+      "Water creates a magnifying field that pulls objects",
+      "Your eyes cannot focus on underwater parts",
+      "Light changes direction when it passes between air and water (refraction)"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 595,
+    "q": "Why can two sounds with the same decibel level seem to have different loudness to you?",
+    "opts": [
+      "The ear's sensitivity varies with frequency, so the same dB at different pitches can be perceived differently",
+      "Loudness only depends on the listener's mood",
+      "Decibel meters are inaccurate for musical sounds",
+      "Your brain ignores one if it is boring"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 596,
+    "q": "Why does soft bread stay fresher longer when kept in a sealed plastic bag than wrapped in paper?",
+    "opts": [
+      "Plastic kills bacteria that cause staleness",
+      "Plastic traps moisture and slows drying, while paper lets moisture escape",
+      "Bread chemically bonds with plastic to stay fresh",
+      "Plastic adds preservatives to the bread"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 597,
+    "q": "Why do wet footprints on a dry sidewalk look darker than the surrounding surface?",
+    "opts": [
+      "Wet spots form a thin mirror that reflects dark sky",
+      "Water dissolves the surface pigments making it darker",
+      "Wet footprints cool the pavement and change its color",
+      "Water fills tiny surface pores and reduces scattering, letting the surface absorb more light and appear darker"
+    ],
+    "ans": 3
+  },
+  {
+    "id": 598,
+    "q": "Why does rubbing two sticks together heat them up?",
+    "opts": [
+      "The sticks release stored solar energy when rubbed",
+      "Rubbing creates tiny fires embedded in the wood chemically",
+      "The friction converts your motion (kinetic energy) into thermal energy",
+      "The sticks generate electricity that turns into heat"
+    ],
+    "ans": 1
+  },
+  {
+    "id": 599,
+    "q": "Why does menthol feel cold on your skin or in your mouth even though it isn't low in temperature?",
+    "opts": [
+      "Menthol triggers specific cold receptors (TRPM8) in nerves, creating a cooling sensation",
+      "Menthol chemically numbs nerve endings so you sense cold",
+      "Menthol increases blood flow which cools the area",
+      "Menthol evaporates and cools the surface rapidly"
+    ],
+    "ans": 2
+  },
+  {
+    "id": 600,
+    "q": "Why can you see your breath as a fog on a chilly morning?",
+    "opts": [
+      "Your breath freezes instantly into tiny crystals",
+      "Warm, moist breath cools and the water vapor condenses into tiny droplets that scatter light",
+      "Cold air turns your breath into colored gases",
+      "Your breath reacts with pollutants to create visible smoke"
+    ],
+    "ans": 0
+  }
+]
